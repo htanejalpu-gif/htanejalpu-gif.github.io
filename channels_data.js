@@ -1,30 +1,30 @@
-const CHANNELS_DATA = [
+window.CHANNELS_DATA = [
   {
     "banner": "banner_discovery",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "id": "discovery",
     "name": "Discovery HD",
-    "primaryUrl": "https://tvsen6.aynaott.com/discovery_hd/index.m3u8",
+    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Science, Nature & Wildlife • 720p HD"
   },
   {
-    "banner": "banner_natgeo",
+    "banner": "https://iili.io/ofhxuhN.png",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+    "fallbackUrl": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
     "id": "natgeo",
     "name": "National Geographic HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+    "primaryUrl": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Inspiring People to Care • 1080p FULL HD"
   },
   {
-    "banner": "banner_discoveryturbo",
+    "banner": "https://iili.io/ofhx5Bt.png",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen6.aynaott.com/discovery_turbo/index.m3u8",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "id": "discoveryturbo",
     "name": "Discovery Turbo HD",
     "primaryUrl": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
@@ -35,21 +35,21 @@ const CHANNELS_DATA = [
   {
     "banner": "banner_animalplanet",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
+    "fallbackUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
     "id": "animalplanet",
     "name": "Animal Planet HD",
-    "primaryUrl": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8",
+    "primaryUrl": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Wildlife & Nature • 720p"
   },
   {
-    "banner": "banner_bbcearth",
+    "banner": "https://iili.io/ofV2C7e.png",
     "category": "INFOTAINMENT",
     "fallbackUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/720p-en-cc/index.m3u8",
     "id": "bbcearth",
     "name": "Sony BBC Earth HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Feel Alive • 1080p FULL HD"
@@ -68,10 +68,10 @@ const CHANNELS_DATA = [
   {
     "banner": "banner_discoveryscience",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "id": "discoveryscience",
     "name": "Discovery Science",
-    "primaryUrl": "https://tvsen6.aynaott.com/discovery_science/index.m3u8",
+    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Tech & Scientific Exploration • 720p"
@@ -79,10 +79,10 @@ const CHANNELS_DATA = [
   {
     "banner": "banner_tlc",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "id": "tlc",
     "name": "TLC HD",
-    "primaryUrl": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8",
+    "primaryUrl": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Lifestyle & Food • 720p"
@@ -176,7 +176,7 @@ const CHANNELS_DATA = [
     "subtitle": "Baking, Cooking Shows & Gourmet Treats • 1080p"
   },
   {
-    "banner": "banner_fashiontv_paris",
+    "banner": "https://iili.io/ofYo7Ax.png",
     "category": "FASHION",
     "fallbackUrl": "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
     "id": "fashiontv_paris",
@@ -187,7 +187,7 @@ const CHANNELS_DATA = [
     "subtitle": "Runway & Haute Couture"
   },
   {
-    "banner": "banner_fashiontv_india",
+    "banner": "https://iili.io/ofYoMcg.png",
     "category": "FASHION",
     "fallbackUrl": "https://samitaorigin.tangotv.in/FASHIONTV/SAMITAORIGIN/index.m3u8",
     "id": "fashiontv_india",
@@ -253,7 +253,7 @@ const CHANNELS_DATA = [
     "subtitle": "National News • 1080p"
   },
   {
-    "banner": "banner_republicbharat",
+    "banner": "https://iili.io/ofAZi2j.png",
     "category": "NEWS",
     "fallbackUrl": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8",
     "id": "republicbharat",
@@ -363,7 +363,7 @@ const CHANNELS_DATA = [
     "subtitle": "Samaj Badlega Desh Badlega • 1080p FULL HD"
   },
   {
-    "banner": "banner_republictv",
+    "banner": "https://iili.io/ofAZDhP.png",
     "category": "NEWS",
     "fallbackUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/1080p.m3u8",
     "id": "republictv",
@@ -627,34 +627,34 @@ const CHANNELS_DATA = [
     "subtitle": "Punjab • Haryana • Himachal Pradesh • 1080p FULL HD"
   },
   {
-    "banner": "banner_sonymax",
+    "banner": "https://iili.io/ofM6Q87.png",
     "category": "MOVIES",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonymaxhd",
     "name": "Sony MAX HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
     "subtitle": "Deewana Bana De • 1080p FULL HD"
   },
   {
-    "banner": "banner_sonymax2",
+    "banner": "https://iili.io/ofMP38P.png",
     "category": "MOVIES",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonymax2",
     "name": "Sony MAX 2",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
     "subtitle": "Jab Dekho Tab Naya • 1080p FULL HD"
   },
   {
-    "banner": "banner_sonypix",
+    "banner": "https://iili.io/ofV4M6Q.png",
     "category": "MOVIES",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonypix",
     "name": "Sony PIX HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HOLLYWOOD",
     "subtitle": "Stay Amazed • 1080p FULL HD"
@@ -693,7 +693,7 @@ const CHANNELS_DATA = [
     "subtitle": "Bollywood Movies"
   },
   {
-    "banner": "banner_andpictures",
+    "banner": "https://iili.io/ofhomru.png",
     "category": "MOVIES",
     "fallbackUrl": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
     "id": "andpictures",
@@ -1244,45 +1244,45 @@ const CHANNELS_DATA = [
     "subtitle": "Spiritual Discourses & Darshan • 720p"
   },
   {
-    "banner": "banner_sonytv",
+    "banner": "https://iili.io/ofV4Enj.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "http://38.96.178.205/SONYHD/index.m3u8",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonytv",
     "name": "Sony TV HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "SET • 1080p FULL HD"
   },
   {
-    "banner": "banner_sonysab",
+    "banner": "https://iili.io/ofGpDxI.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonysab",
     "name": "Sony SAB HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
     "subtitle": "Khushiyon Wali Feeling • 1080p FULL HD"
   },
   {
-    "banner": "banner_sonypal",
+    "banner": "https://iili.io/ofV2JIf.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonypal",
     "name": "Sony PAL",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
     "subCategory": "HINDI",
     "subtitle": "Yeh Pal Hamara Hai • HD"
   },
   {
-    "banner": "banner_sonywah",
+    "banner": "https://iili.io/ofV2FB2.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonywah",
     "name": "Sony WAH",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
     "subCategory": "HINDI",
     "subtitle": "Filmon Ka Mela • HD"
@@ -1310,7 +1310,7 @@ const CHANNELS_DATA = [
     "subtitle": "Zee • Primetime Entertainment"
   },
   {
-    "banner": "banner_andtv",
+    "banner": "https://iili.io/ofhxHkx.png",
     "category": "ENTERTAINMENT",
     "fallbackUrl": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
     "id": "andtv",
@@ -1641,34 +1641,34 @@ const CHANNELS_DATA = [
     "subtitle": "Doordarshan Punjabi Regional Heritage & Culture • 504p"
   },
   {
-    "banner": "banner_sonysports1",
+    "banner": "https://iili.io/ofV2TLQ.png",
     "category": "SPORTS",
-    "fallbackUrl": "http://38.96.178.205/TEN_1/index.m3u8",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonysports1",
     "name": "Sony Sports Ten 1 HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Live Global Cricket & WWE • 1080p"
   },
   {
-    "banner": "banner_sonysports2",
+    "banner": "https://iili.io/ofV2lpa.png",
     "category": "SPORTS",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonysports2",
     "name": "Sony Sports Ten 2 HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Live Cricket, Football & Tennis • 1080p"
   },
   {
-    "banner": "banner_sonysports3",
+    "banner": "https://iili.io/ofV2X4I.png",
     "category": "SPORTS",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonysports3",
     "name": "Sony Sports Ten 3 HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
     "subtitle": "Live Cricket & Sports in Hindi • 1080p"
@@ -1718,7 +1718,7 @@ const CHANNELS_DATA = [
     "subtitle": "Willow Sports Global Live • 1080p"
   },
   {
-    "banner": "banner_tsports",
+    "banner": "https://iili.io/ofWhrtS.png",
     "category": "SPORTS",
     "fallbackUrl": "https://lkn1.chowdhury-shaheb.com/Tsports/tracks-v1a1/mono.m3u8",
     "id": "tsports",
@@ -1751,7 +1751,7 @@ const CHANNELS_DATA = [
     "subtitle": "Pakistan Cricket & Live Sports • 720p HD"
   },
   {
-    "banner": "banner_starsports2",
+    "banner": "https://iili.io/ofMPYts.png",
     "category": "SPORTS",
     "fallbackUrl": "http://38.96.178.205/STARSPORTS2/index.m3u8",
     "id": "starsports2",
@@ -1762,12 +1762,12 @@ const CHANNELS_DATA = [
     "subtitle": "Live Cricket & Sports Action • 1080p"
   },
   {
-    "banner": "banner_sonysports5",
+    "banner": "https://iili.io/ofWhjnt.png",
     "category": "SPORTS",
-    "fallbackUrl": "http://38.96.178.203/SPORTS1/index.m3u8",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonysports5",
     "name": "Sony Sports 5 HD",
-    "primaryUrl": "http://38.96.178.205/SPORTS1/index.m3u8",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subtitle": "Live Football, UFC, Cricket & WWE • 1080p"
   },
@@ -1838,12 +1838,12 @@ const CHANNELS_DATA = [
     "subtitle": "Pakistan Cricket, PSL & Sports • 720p"
   },
   {
-    "banner": "banner_sonyyay",
+    "banner": "https://iili.io/ofMPuSI.png",
     "category": "KIDS",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "id": "sonyyay",
     "name": "Sony YAY !",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795595675~acl=/*~id=59687316844258487797911953344612~hmac=e61a2fd9ce6c6799d936cd886ae69f6d225abecd35335e96007d284fda727dfb",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
     "subtitle": "Non-Stop Fun & Toons • 1080p FULL HD"
@@ -1876,7 +1876,7 @@ const CHANNELS_DATA = [
     "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "id": "pogo",
     "name": "Pogo TV",
-    "primaryUrl": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8",
+    "primaryUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Chhota Bheem & Titoo • Hindi 720p"

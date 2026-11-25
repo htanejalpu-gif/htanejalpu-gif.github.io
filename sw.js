@@ -1,4 +1,4 @@
-const CACHE_NAME = 'playtv-v4.3';
+const CACHE_NAME = 'playtv-v4.4';
 const SHELL_ASSETS = [
   './',
   './index.html',
@@ -34,9 +34,9 @@ self.addEventListener('activate', event => {
 });
 
 self.addEventListener('fetch', event => {
-  // Let stream video requests (.m3u8, .ts, etc.) and Firebase live data bypass service worker cache completely
+  // Let stream video requests (.m3u8, .ts, etc.), channel data, and Firebase live data bypass service worker cache completely
   const url = event.request.url;
-  if (url.includes('.m3u8') || url.includes('.ts') || url.includes('/live/') || url.includes('stream') || url.includes('firebaseio.com')) {
+  if (url.includes('.m3u8') || url.includes('.ts') || url.includes('/live/') || url.includes('stream') || url.includes('firebaseio.com') || url.includes('channels.json') || url.includes('channels_data.js')) {
     return;
   }
 

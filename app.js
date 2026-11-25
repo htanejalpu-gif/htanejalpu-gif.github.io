@@ -337,18 +337,21 @@
     }
 
     videoPlayer.pause();
-    videoPlayer.removeAttribute('src');
-    videoPlayer.load();
 
     // 1. Native HLS (iOS Safari / iPad / macOS Safari)
     if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
       videoPlayer.src = url;
-      videoPlayer.play().then(() => {
-        showLoader(false);
-        updatePlayPauseUI(true);
-      }).catch(err => {
-        console.warn('Initial play auto-start issue:', err);
-      });
+      const playPromise = videoPlayer.play();
+      if (playPromise !== undefined) {
+        playPromise.then(() => {
+          showLoader(false);
+          updatePlayPauseUI(true);
+        }).catch(err => {
+          console.warn('Initial play auto-start issue:', err);
+          showLoader(false);
+          updatePlayPauseUI(false);
+        });
+      }
     } 
     // 2. Hls.js for Chrome / Firefox / Edge
     else if (window.Hls && Hls.isSupported()) {
@@ -356,10 +359,17 @@
       hlsInstance.loadSource(url);
       hlsInstance.attachMedia(videoPlayer);
       hlsInstance.on(Hls.Events.MANIFEST_PARSED, () => {
-        videoPlayer.play().then(() => {
-          showLoader(false);
-          updatePlayPauseUI(true);
-        }).catch(err => console.warn(err));
+        const p = videoPlayer.play();
+        if (p !== undefined) {
+          p.then(() => {
+            showLoader(false);
+            updatePlayPauseUI(true);
+          }).catch(err => {
+            console.warn(err);
+            showLoader(false);
+            updatePlayPauseUI(false);
+          });
+        }
       });
       hlsInstance.on(Hls.Events.ERROR, (event, data) => {
         if (data.fatal) {
@@ -380,10 +390,17 @@
     // 3. Fallback direct src
     else {
       videoPlayer.src = url;
-      videoPlayer.play().then(() => {
-        showLoader(false);
-        updatePlayPauseUI(true);
-      }).catch(err => console.warn(err));
+      const p = videoPlayer.play();
+      if (p !== undefined) {
+        p.then(() => {
+          showLoader(false);
+          updatePlayPauseUI(true);
+        }).catch(err => {
+          console.warn(err);
+          showLoader(false);
+          updatePlayPauseUI(false);
+        });
+      }
     }
   }
 
