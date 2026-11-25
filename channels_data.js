@@ -1795,6 +1795,17 @@ window.CHANNELS_DATA = [
     "subtitle": "24x7 Live Cricket USA • 1080p"
   },
   {
+    "banner": "https://iili.io/ofmkgvs.png",
+    "category": "SPORTS",
+    "fallbackUrl": "https://tvsen5.aynaott.com/asdfadsf/tracks-v1/mono.ts.m3u8",
+    "id": "tntsports1",
+    "name": "TNT Sports 1 HD",
+    "primaryUrl": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
+    "quality": "720p HD 50fps",
+    "subCategory": "INTERNATIONAL",
+    "subtitle": "Premier League & UEFA Champions League • 720p 50fps"
+  },
+  {
     "banner": "banner_tensports",
     "category": "SPORTS",
     "fallbackUrl": "https://tvsen7.aynascope.net/ssport2hd/index.m3u8",
