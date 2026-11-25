@@ -118,23 +118,66 @@
     setupScreenSwipe();
     restoreVolume();
 
-    // Live OTA Sync from Firebase Realtime Database
+    // Live OTA Sync: Load latest channels.json from repository, and auto-refresh Sony tokens
     if (window.fetch) {
-      fetch('https://playtv-ba8df-default-rtdb.firebaseio.com/channels.json')
+      fetch('channels.json?v=' + Date.now())
         .then(r => r.json())
         .then(data => {
           if (Array.isArray(data) && data.length > 0) {
             allChannels = data.filter(c => c && typeof c === 'object');
             allChannels.forEach(normalizeChannel);
+            applyCachedSonyToken();
             filterAndRenderChannels();
             renderCategoryPills();
-            console.log('[PlayTV PWA] Synced ' + allChannels.length + ' channels live from Firebase RTDB');
+            console.log('[PlayTV PWA] Loaded ' + allChannels.length + ' channels from channels.json');
           }
         })
         .catch(err => {
-          console.warn('[PlayTV PWA] Firebase live sync fallback to local data:', err);
+          console.warn('[PlayTV PWA] channels.json fallback to local data:', err);
+        })
+        .finally(() => {
+          refreshSonyTokensInBackground();
         });
     }
+  }
+
+  function updateSonyChannelsWithToken(token) {
+    if (!token) return;
+    if (!token.startsWith('hdnea=')) {
+      const idx = token.indexOf('hdnea=');
+      if (idx !== -1) token = token.substring(idx);
+    }
+    allChannels.forEach(ch => {
+      ['primaryUrl', 'fallbackUrl', 'streamUrl'].forEach(key => {
+        if (ch[key] && ch[key].includes('dishmt.slivcdn.com')) {
+          const base = ch[key].split('?')[0];
+          ch[key] = `${base}?${token}`;
+        }
+      });
+    });
+    try {
+      localStorage.setItem('cached_sony_token', token);
+    } catch (e) {}
+  }
+
+  function applyCachedSonyToken() {
+    try {
+      const cached = localStorage.getItem('cached_sony_token');
+      if (cached) updateSonyChannelsWithToken(cached);
+    } catch (e) {}
+  }
+
+  function refreshSonyTokensInBackground() {
+    fetch('https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/main/sony.m3u')
+      .then(r => r.text())
+      .then(text => {
+        const match = text.match(/hdnea=[^\s"']+/);
+        if (match) {
+          updateSonyChannelsWithToken(match[0]);
+          console.log('[PlayTV PWA] Auto-refreshed Sony Akamai token');
+        }
+      })
+      .catch(err => console.warn('[PlayTV PWA] Sony token refresh warning:', err));
   }
 
   // Calculate counts per category
@@ -373,6 +416,26 @@
       });
       hlsInstance.on(Hls.Events.ERROR, (event, data) => {
         if (data.fatal) {
+          if (data.type === Hls.ErrorTypes.NETWORK_ERROR && currentPlayingChannel && (currentPlayingChannel.primaryUrl || '').includes('dishmt.slivcdn.com')) {
+            if (!currentPlayingChannel._sonyRetry) {
+              currentPlayingChannel._sonyRetry = true;
+              showToast('Refreshing Sony live token...');
+              fetch('https://raw.githubusercontent.com/sportlive18/Sonyliv-Playlist-Autoupdate/main/sony.m3u')
+                .then(r => r.text())
+                .then(text => {
+                  const match = text.match(/hdnea=[^\s"']+/);
+                  if (match) {
+                    updateSonyChannelsWithToken(match[0]);
+                    const newUrl = currentPlayingChannel.primaryUrl;
+                    loadStream(newUrl);
+                  }
+                })
+                .catch(() => {
+                  hlsInstance.startLoad();
+                });
+              return;
+            }
+          }
           switch (data.type) {
             case Hls.ErrorTypes.NETWORK_ERROR:
               hlsInstance.startLoad();
