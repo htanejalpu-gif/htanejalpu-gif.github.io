@@ -1024,17 +1024,6 @@
     "subtitle": "Best Of Zee Comedy • 720p"
   },
   {
-    "banner": "banner_pitaracomedy",
-    "category": "COMEDY",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN1600001OG",
-    "id": "pitaracomedy",
-    "name": "Pitaara Comedy",
-    "primaryUrl": "https://d7uwpei3iz1s1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-zlhyk105tozvj/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Non-Stop Punjabi & Hindi Comedy • 1080p"
-  },
-  {
     "banner": "banner_9xm",
     "category": "MUSIC",
     "fallbackUrl": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
@@ -1531,6 +1520,39 @@
     "subtitle": "Flagship Punjabi GEC & Shows"
   },
   {
+    "banner": "banner_tabbarhits",
+    "category": "PUNJABI",
+    "fallbackUrl": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+    "id": "tabbarhits",
+    "name": "Tabbar Hits",
+    "primaryUrl": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Chartbusters & Punjabi Pop"
+  },
+  {
+    "banner": "banner_pitaracomedy",
+    "category": "PUNJABI",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN1600001OG",
+    "id": "pitaracomedy",
+    "name": "Pitaara Comedy",
+    "primaryUrl": "https://d7uwpei3iz1s1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-zlhyk105tozvj/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Non-Stop Punjabi & Hindi Comedy • 1080p"
+  },
+  {
+    "banner": "banner_gtcpunjabi",
+    "category": "PUNJABI",
+    "fallbackUrl": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
+    "id": "gtcpunjabi",
+    "name": "GTC Punjabi",
+    "primaryUrl": "https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Music, Entertainment & Gurbani • 1080p"
+  },
+  {
     "banner": "banner_ptcmusic",
     "category": "PUNJABI",
     "fallbackUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
@@ -1564,39 +1586,6 @@
     "subtitle": "24x7 Punjabi Hits Music"
   },
   {
-    "banner": "banner_tabbarhits",
-    "category": "PUNJABI",
-    "fallbackUrl": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
-    "id": "tabbarhits",
-    "name": "Tabbar Hits",
-    "primaryUrl": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Chartbusters & Punjabi Pop"
-  },
-  {
-    "banner": "banner_punjabishorts",
-    "category": "PUNJABI",
-    "fallbackUrl": "https://samitaorigin.tangotv.in/PITAARA/SAMITAORIGIN/index.m3u8",
-    "id": "punjabishorts",
-    "name": "Punjabi Shorts",
-    "primaryUrl": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Short Films & Punjabi Stories"
-  },
-  {
-    "banner": "banner_mhone",
-    "category": "PUNJABI",
-    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8",
-    "id": "mhone",
-    "name": "MH One Punjabi HD",
-    "primaryUrl": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "24x7 Punjabi Hits & Cultural GEC • 720p"
-  },
-  {
     "banner": "banner_balleballe",
     "category": "PUNJABI",
     "fallbackUrl": "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8",
@@ -1619,15 +1608,26 @@
     "subtitle": "24x7 Punjabi Hits & Cultural GEC • 720p"
   },
   {
-    "banner": "banner_gtcpunjabi",
+    "banner": "banner_mhone",
     "category": "PUNJABI",
-    "fallbackUrl": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8",
-    "id": "gtcpunjabi",
-    "name": "GTC Punjabi",
-    "primaryUrl": "https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8",
+    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8",
+    "id": "mhone",
+    "name": "MH One Punjabi HD",
+    "primaryUrl": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "24x7 Punjabi Hits & Cultural GEC • 720p"
+  },
+  {
+    "banner": "banner_punjabishorts",
+    "category": "PUNJABI",
+    "fallbackUrl": "https://samitaorigin.tangotv.in/PITAARA/SAMITAORIGIN/index.m3u8",
+    "id": "punjabishorts",
+    "name": "Punjabi Shorts",
+    "primaryUrl": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Music, Entertainment & Gurbani • 1080p"
+    "subtitle": "Short Films & Punjabi Stories"
   },
   {
     "banner": "banner_ddpunjabi",
