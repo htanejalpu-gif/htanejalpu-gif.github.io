@@ -1854,7 +1854,7 @@ window.CHANNELS_DATA = [
     "name": "Star Sports 1 HD",
     "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809383&extension=m3u8",
     "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809383&extension=m3u8",
-    "banner": "https://iili.io/ofV2wZv.png",
+    "banner": "https://iili.io/oq9LH0u.png",
     "category": "SPORTS",
     "subCategory": "LIVE",
     "quality": "1080p FULL HD",
