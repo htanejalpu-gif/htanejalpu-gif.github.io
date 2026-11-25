@@ -1817,6 +1817,17 @@
     "subtitle": "24x7 Live Cricket USA \u2022 1080p"
   },
   {
+    "id": "willow2",
+    "name": "Willow 2 by Cricbuzz",
+    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809387&extension=m3u8",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809387&extension=m3u8",
+    "banner": "https://iili.io/ofyUpg2.png",
+    "category": "SPORTS",
+    "subCategory": "LIVE",
+    "quality": "1080p FULL HD",
+    "subtitle": "Live Cricket & Tournaments \u2022 1080p"
+  },
+  {
     "banner": "https://iili.io/ofmkgvs.png",
     "category": "SPORTS",
     "fallbackUrl": "https://tvsen5.aynaott.com/asdfadsf/tracks-v1/mono.ts.m3u8",
@@ -1837,6 +1848,39 @@
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Authentic Ten Sports Live \u2022 1080p"
+  },
+  {
+    "id": "starsports1",
+    "name": "Star Sports 1 HD",
+    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809383&extension=m3u8",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809383&extension=m3u8",
+    "banner": "https://iili.io/ofV2wZv.png",
+    "category": "SPORTS",
+    "subCategory": "LIVE",
+    "quality": "1080p FULL HD",
+    "subtitle": "Cricket & Premier Sports \u2022 1080p"
+  },
+  {
+    "id": "starsports2",
+    "name": "Star Sports 2 HD",
+    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809384&extension=m3u8",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=373204&extension=m3u8",
+    "banner": "https://iili.io/ofyUjHP.png",
+    "category": "SPORTS",
+    "subCategory": "LIVE",
+    "quality": "1080p FULL HD",
+    "subtitle": "Live Sports & Premier League \u2022 1080p"
+  },
+  {
+    "id": "starsports3",
+    "name": "Star Sports 3 HD",
+    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=373203&extension=m3u8",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=373203&extension=m3u8",
+    "banner": "https://iili.io/ofyUglp.png",
+    "category": "SPORTS",
+    "subCategory": "LIVE",
+    "quality": "1080p FULL HD",
+    "subtitle": "Hindi Sports & Live Matches \u2022 1080p"
   },
   {
     "banner": "banner_willowsports",
@@ -1883,15 +1927,15 @@
     "subtitle": "Pakistan Cricket & Live Sports \u2022 720p HD"
   },
   {
-    "banner": "https://iili.io/ofMPYts.png",
-    "category": "SPORTS",
-    "fallbackUrl": "http://38.96.178.205/STARSPORTS2/index.m3u8",
-    "id": "starsports2",
-    "name": "Star Sports 2 HD",
+    "id": "sonysports1_feed2",
+    "name": "Sony Sports 1 HD",
     "primaryUrl": "http://38.96.178.205/STARSPORTS2/index.m3u8",
-    "quality": "1080p FULL HD",
+    "fallbackUrl": "http://38.96.178.205/STARSPORTS2/index.m3u8",
+    "banner": "https://iili.io/ofV2TLQ.png",
+    "category": "SPORTS",
     "subCategory": "LIVE",
-    "subtitle": "Live Cricket & Sports Action \u2022 1080p"
+    "quality": "1080p FULL HD",
+    "subtitle": "Live Cricket & Football \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofWhjnt.png",
