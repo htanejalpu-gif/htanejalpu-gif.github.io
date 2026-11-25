@@ -1787,10 +1787,10 @@ const CHANNELS_DATA = [
   {
     "banner": "https://iili.io/ofp8iKB.png",
     "category": "SPORTS",
-    "fallbackUrl": "http://skylikem.com/live/2VZWJC3W/B7D7XK4T/1481175.m3u8",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=394545&extension=m3u8",
     "id": "skysportscricket",
     "name": "Sky Sports Cricket HD",
-    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=394545&extension=m3u8",
+    "primaryUrl": "http://skylikem.com/live/2VZWJC3W/B7D7XK4T/1481175.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Live Cricket & The Ashes \u2022 1080p"
