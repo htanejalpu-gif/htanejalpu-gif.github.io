@@ -1255,26 +1255,27 @@ window.CHANNELS_DATA = [
     "subtitle": "Khushiyon Wali Feeling • 1080p FULL HD"
   },
   {
-    "banner": "https://iili.io/ofV2JIf.png",
+    "banner": "banner_colors",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "id": "sonypal",
-    "name": "Sony PAL",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "fallbackUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+    "id": "colors",
+    "name": "Colors MENA HD",
+    "primaryUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
     "quality": "720p HD",
-    "subCategory": "HINDI",
-    "subtitle": "Yeh Pal Hamara Hai • HD"
+    "subCategory": "",
+    "subtitle": "Popular Serials"
   },
   {
-    "banner": "https://iili.io/ofV2FB2.png",
+    "banner": "https://iili.io/ofhxHkx.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "id": "sonywah",
-    "name": "Sony WAH",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "quality": "720p HD",
+    "fallbackUrl": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+    "id": "andtv",
+    "logo": "https://iili.io/ofhxHkx.png",
+    "name": "&TV HD",
+    "primaryUrl": "https://jmp2.uk/stvp-GB800002OP",
+    "quality": "1080p Full HD",
     "subCategory": "HINDI",
-    "subtitle": "Filmon Ka Mela • HD"
+    "subtitle": "Hai Khaas Har Andaaz • 1080p FULL HD"
   },
   {
     "banner": "banner_starplus",
@@ -1299,27 +1300,15 @@ window.CHANNELS_DATA = [
     "subtitle": "Zee • Primetime Entertainment"
   },
   {
-    "banner": "https://iili.io/ofhxHkx.png",
+    "banner": "banner_colorsrishtey",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
-    "id": "andtv",
-    "logo": "https://iili.io/ofhxHkx.png",
-    "name": "&TV HD",
-    "primaryUrl": "https://jmp2.uk/stvp-GB800002OP",
-    "quality": "1080p Full HD",
-    "subCategory": "HINDI",
-    "subtitle": "Hai Khaas Har Andaaz • 1080p FULL HD"
-  },
-  {
-    "banner": "banner_colors",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
-    "id": "colors",
-    "name": "Colors MENA HD",
-    "primaryUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8",
+    "id": "colorsrishtey",
+    "name": "Colors Rishtey",
+    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Popular Serials"
+    "subtitle": "Hindi Family Dramas & Blockbusters • 720p"
   },
   {
     "banner": "banner_starbharat",
@@ -1333,26 +1322,48 @@ window.CHANNELS_DATA = [
     "subtitle": "Bhula De Darr • Hindi Serials & Dramas • 720p"
   },
   {
-    "banner": "banner_colorsrishtey",
+    "banner": "https://iili.io/ofV2JIf.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8",
-    "id": "colorsrishtey",
-    "name": "Colors Rishtey",
-    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "id": "sonypal",
+    "name": "Sony PAL",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Hindi Family Dramas & Blockbusters • 720p"
+    "subCategory": "HINDI",
+    "subtitle": "Yeh Pal Hamara Hai • HD"
   },
   {
-    "banner": "banner_dangaltv",
+    "banner": "https://iili.io/ofV2FB2.png",
     "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
-    "id": "dangaltv",
-    "name": "Dangal TV HD",
-    "primaryUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "id": "sonywah",
+    "name": "Sony WAH",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
+    "subCategory": "HINDI",
+    "subtitle": "Filmon Ka Mela • HD"
+  },
+  {
+    "banner": "banner_aapkkiadalat",
+    "category": "ENTERTAINMENT",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN2600020H9",
+    "id": "aapkkiadalat",
+    "name": "India TV Aap Ki Adalat",
+    "primaryUrl": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8?ads.coppa=0",
+    "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Hit Dramas"
+    "subtitle": "Rajat Sharma Iconic Interviews • 1080p"
+  },
+  {
+    "banner": "banner_bollywoodmasala",
+    "category": "ENTERTAINMENT",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN4000555E",
+    "id": "bollywoodmasala",
+    "name": "Bollywood Masala",
+    "primaryUrl": "https://cc-oocjjcprb2v3h.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oocjjcprb2v3h/ptnr-samsung/title-Bollywood_Masala/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Bollywood Gossip & Entertainment • 1080p"
   },
   {
     "banner": "banner_shemarootv",
@@ -1366,6 +1377,17 @@ window.CHANNELS_DATA = [
     "subtitle": "Classic Serials"
   },
   {
+    "banner": "banner_dangaltv",
+    "category": "ENTERTAINMENT",
+    "fallbackUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "id": "dangaltv",
+    "name": "Dangal TV HD",
+    "primaryUrl": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Hit Dramas"
+  },
+  {
     "banner": "banner_epicbharat",
     "category": "ENTERTAINMENT",
     "fallbackUrl": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/tracks-v1a1/mono.m3u8",
@@ -1377,6 +1399,17 @@ window.CHANNELS_DATA = [
     "subtitle": "Culturally Resonant Indian Family Dramas & Entertainment • 720p"
   },
   {
+    "banner": "banner_epiccrimes",
+    "category": "ENTERTAINMENT",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN8000171I",
+    "id": "epiccrimes",
+    "name": "Epic Crimes",
+    "primaryUrl": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Gripping Crime Chronicles • 1080p"
+  },
+  {
     "banner": "banner_ddnational",
     "category": "ENTERTAINMENT",
     "fallbackUrl": "https://streams.tangotv.in/DDNATIONAL/ORIGIN/index.m3u8",
@@ -1386,17 +1419,6 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "India's Flagship National Broadcaster • 1080p"
-  },
-  {
-    "banner": "https://iili.io/of7HykF.png",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://cc-781sm3dbw07tp.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-781sm3dbw07tp/rangmanchtv/playlist.m3u8",
-    "id": "rangmanch",
-    "name": "Rangmanch HD",
-    "primaryUrl": "https://cc-781sm3dbw07tp.akamaized.net/rangmanchtv/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Marathi Drama, Culture & Entertainment • 1080p FULL HD"
   },
   {
     "banner": "banner_koreantv",
@@ -1432,39 +1454,6 @@ window.CHANNELS_DATA = [
     "subtitle": "Thrilling Crime & Mysteries • 1080p"
   },
   {
-    "banner": "banner_aapkkiadalat",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN2600020H9",
-    "id": "aapkkiadalat",
-    "name": "India TV Aap Ki Adalat",
-    "primaryUrl": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8?ads.coppa=0",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Rajat Sharma Iconic Interviews • 1080p"
-  },
-  {
-    "banner": "banner_bollywoodmasala",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN4000555E",
-    "id": "bollywoodmasala",
-    "name": "Bollywood Masala",
-    "primaryUrl": "https://cc-oocjjcprb2v3h.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oocjjcprb2v3h/ptnr-samsung/title-Bollywood_Masala/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Bollywood Gossip & Entertainment • 1080p"
-  },
-  {
-    "banner": "banner_epiccrimes",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN8000171I",
-    "id": "epiccrimes",
-    "name": "Epic Crimes",
-    "primaryUrl": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Gripping Crime Chronicles • 1080p"
-  },
-  {
     "banner": "banner_midsomermurders",
     "category": "ENTERTAINMENT",
     "fallbackUrl": "https://jmp2.uk/stvp-IN2200004MX",
@@ -1485,6 +1474,17 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Investigation & Forensic TV • 1080p"
+  },
+  {
+    "banner": "https://iili.io/of7HykF.png",
+    "category": "ENTERTAINMENT",
+    "fallbackUrl": "https://cc-781sm3dbw07tp.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-781sm3dbw07tp/rangmanchtv/playlist.m3u8",
+    "id": "rangmanch",
+    "name": "Rangmanch HD",
+    "primaryUrl": "https://cc-781sm3dbw07tp.akamaized.net/rangmanchtv/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Marathi Drama, Culture & Entertainment • 1080p FULL HD"
   },
   {
     "banner": "banner_pitaara",
