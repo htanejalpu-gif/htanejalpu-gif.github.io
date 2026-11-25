@@ -1024,15 +1024,15 @@
     "subtitle": "Best Of Zee Comedy • 720p"
   },
   {
-    "banner": "banner_9xm",
+    "banner": "banner_yrfmusic",
     "category": "MUSIC",
-    "fallbackUrl": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
-    "id": "9xm",
-    "name": "9XM HD",
-    "primaryUrl": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8",
+    "fallbackUrl": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
+    "id": "yrfmusic",
+    "name": "YRF Music HD",
+    "primaryUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Latest Bollywood Hits"
+    "subtitle": "Yash Raj Melodies • 1080p"
   },
   {
     "banner": "banner_filmigaane",
@@ -1046,26 +1046,15 @@
     "subtitle": "Bollywood Golden Classics"
   },
   {
-    "banner": "banner_yrfmusic",
+    "banner": "banner_9xm",
     "category": "MUSIC",
-    "fallbackUrl": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
-    "id": "yrfmusic",
-    "name": "YRF Music HD",
-    "primaryUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "fallbackUrl": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
+    "id": "9xm",
+    "name": "9XM HD",
+    "primaryUrl": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Yash Raj Melodies • 1080p"
-  },
-  {
-    "banner": "banner_b4umusic",
-    "category": "MUSIC",
-    "fallbackUrl": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
-    "id": "b4umusic",
-    "name": "B4U Music HD",
-    "primaryUrl": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Bollywood Hits & Charts"
+    "subtitle": "Latest Bollywood Hits"
   },
   {
     "banner": "banner_zoom",
@@ -1079,15 +1068,15 @@
     "subtitle": "Bollywood Music & Glam"
   },
   {
-    "banner": "https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",
+    "banner": "banner_9xtashan",
     "category": "MUSIC",
-    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
-    "id": "e24",
-    "name": "E24 HD",
-    "primaryUrl": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
-    "quality": "720p HD",
+    "fallbackUrl": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8",
+    "id": "9xtashan",
+    "name": "9X Tashan",
+    "primaryUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+    "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Music, Glamour & Hits • 720p HD"
+    "subtitle": "Top Punjabi Music • 1080p"
   },
   {
     "banner": "banner_9xjalwa",
@@ -1112,59 +1101,15 @@
     "subtitle": "24x7 Bollywood Hits"
   },
   {
-    "banner": "banner_9xtashan",
+    "banner": "banner_nhbollyraga",
     "category": "MUSIC",
-    "fallbackUrl": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8",
-    "id": "9xtashan",
-    "name": "9X Tashan",
-    "primaryUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
+    "id": "nhbollyraga",
+    "name": "NH BollyRaga",
+    "primaryUrl": "https://d3q7boydbwbbm0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-herfuyvo6swzh/BollyRaga_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Top Punjabi Music • 1080p"
-  },
-  {
-    "banner": "banner_thats90s",
-    "category": "MUSIC",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN800004YV",
-    "id": "thats90s",
-    "name": "That's 90s00s",
-    "primaryUrl": "https://amg01076-amg01076c19-samsung-in-7054.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsungin/playlist.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "90s & 2000s Pop Classics • 720p"
-  },
-  {
-    "banner": "banner_thats80s",
-    "category": "MUSIC",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN8000027E",
-    "id": "thats80s",
-    "name": "That's 80s",
-    "primaryUrl": "https://amg01076-amg01076c2-samsung-in-7056.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-samsungin/playlist.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "80s Greatest Hits • 720p"
-  },
-  {
-    "banner": "banner_thats70s",
-    "category": "MUSIC",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN800001OD",
-    "id": "thats70s",
-    "name": "That's 70s",
-    "primaryUrl": "https://amg01076-amg01076c1-samsung-in-7053.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-samsungin/playlist.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "70s Golden Era Classics • 720p"
-  },
-  {
-    "banner": "banner_thatsrock",
-    "category": "MUSIC",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN800003JE",
-    "id": "thatsrock",
-    "name": "That's ROCK",
-    "primaryUrl": "https://amg01076-amg01076c3-samsung-in-7063.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-samsungin/playlist.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Rock Anthems & Legends • 720p"
+    "subtitle": "Bollywood Melodies & Rhythms • 1080p"
   },
   {
     "banner": "banner_epicmusic",
@@ -1178,15 +1123,70 @@
     "subtitle": "Soundtracks & Folk Fusion • 1080p"
   },
   {
-    "banner": "banner_nhbollyraga",
+    "banner": "https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",
     "category": "MUSIC",
-    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
-    "id": "nhbollyraga",
-    "name": "NH BollyRaga",
-    "primaryUrl": "https://d3q7boydbwbbm0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-herfuyvo6swzh/BollyRaga_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
+    "fallbackUrl": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
+    "id": "e24",
+    "name": "E24 HD",
+    "primaryUrl": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Bollywood Music, Glamour & Hits • 720p HD"
+  },
+  {
+    "banner": "banner_b4umusic",
+    "category": "MUSIC",
+    "fallbackUrl": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8",
+    "id": "b4umusic",
+    "name": "B4U Music HD",
+    "primaryUrl": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Melodies & Rhythms • 1080p"
+    "subtitle": "Bollywood Hits & Charts"
+  },
+  {
+    "banner": "banner_thats70s",
+    "category": "MUSIC",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN800001OD",
+    "id": "thats70s",
+    "name": "That's 70s",
+    "primaryUrl": "https://amg01076-amg01076c1-samsung-in-7053.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-samsungin/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "70s Golden Era Classics • 720p"
+  },
+  {
+    "banner": "banner_thats80s",
+    "category": "MUSIC",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN8000027E",
+    "id": "thats80s",
+    "name": "That's 80s",
+    "primaryUrl": "https://amg01076-amg01076c2-samsung-in-7056.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-samsungin/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "80s Greatest Hits • 720p"
+  },
+  {
+    "banner": "banner_thats90s",
+    "category": "MUSIC",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN800004YV",
+    "id": "thats90s",
+    "name": "That's 90s00s",
+    "primaryUrl": "https://amg01076-amg01076c19-samsung-in-7054.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsungin/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "90s & 2000s Pop Classics • 720p"
+  },
+  {
+    "banner": "banner_thatsrock",
+    "category": "MUSIC",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN800003JE",
+    "id": "thatsrock",
+    "name": "That's ROCK",
+    "primaryUrl": "https://amg01076-amg01076c3-samsung-in-7063.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-samsungin/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Rock Anthems & Legends • 720p"
   },
   {
     "banner": "banner_kmusic",
