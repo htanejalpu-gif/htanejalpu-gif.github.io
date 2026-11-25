@@ -640,10 +640,10 @@
   {
     "banner": "banner_zeecinema",
     "category": "MOVIES",
-    "fallbackUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8",
+    "fallbackUrl": "https://da86m1sqpm3o0.cloudfront.net/230822/zeecinemaapachd.smil/playlist.m3u8",
     "id": "zeecinema",
     "name": "Zee Cinema HD",
-    "primaryUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8",
+    "primaryUrl": "https://da86m1sqpm3o0.cloudfront.net/230822/zeecinemaapachd.smil/chunklist_b2628000.m3u8",
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Bollywood Movies"
