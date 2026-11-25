@@ -363,28 +363,6 @@
     "subtitle": "Samaj Badlega Desh Badlega • 1080p FULL HD"
   },
   {
-    "banner": "https://iili.io/ofAZDhP.png",
-    "category": "NEWS",
-    "fallbackUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/1080p.m3u8",
-    "id": "republictv",
-    "name": "Republic TV HD",
-    "primaryUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "ENGLISH",
-    "subtitle": "India's Leading English News & Primetime Debates • 1080p"
-  },
-  {
-    "banner": "banner_cnnnews18",
-    "category": "NEWS",
-    "fallbackUrl": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8",
-    "id": "cnnnews18",
-    "name": "CNN-News18 HD",
-    "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "ENGLISH",
-    "subtitle": "On The Ground • Prime Time English News & Debates • 1080p"
-  },
-  {
     "banner": "banner_indiatoday",
     "category": "NEWS",
     "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8",
@@ -418,15 +396,15 @@
     "subtitle": "Global & National Breaking News • 720p"
   },
   {
-    "banner": "banner_mirrornow",
+    "banner": "https://iili.io/ofAZDhP.png",
     "category": "NEWS",
-    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8",
-    "id": "mirrornow",
-    "name": "Mirror Now",
-    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8",
+    "fallbackUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/1080p.m3u8",
+    "id": "republictv",
+    "name": "Republic TV HD",
+    "primaryUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Civic Issues & Breaking News • 1080p"
+    "subtitle": "India's Leading English News & Primetime Debates • 1080p"
   },
   {
     "banner": "banner_wion",
@@ -438,6 +416,28 @@
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
     "subtitle": "World Is One News • 1080p"
+  },
+  {
+    "banner": "https://iili.io/ofAPs6v.png",
+    "category": "NEWS",
+    "fallbackUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8",
+    "id": "bbcnews",
+    "name": "BBC News HD",
+    "primaryUrl": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Global Breaking News & World Reports • 720p HD"
+  },
+  {
+    "banner": "banner_mirrornow",
+    "category": "NEWS",
+    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8",
+    "id": "mirrornow",
+    "name": "Mirror Now",
+    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Civic Issues & Breaking News • 1080p"
   },
   {
     "banner": "banner_news9",
@@ -462,15 +462,15 @@
     "subtitle": "Global Perspectives & In-Depth Analysis • 720p"
   },
   {
-    "banner": "https://iili.io/ofAPs6v.png",
+    "banner": "banner_cnnnews18",
     "category": "NEWS",
-    "fallbackUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8",
-    "id": "bbcnews",
-    "name": "BBC News HD",
-    "primaryUrl": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8",
-    "quality": "720p HD",
+    "fallbackUrl": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8",
+    "id": "cnnnews18",
+    "name": "CNN-News18 HD",
+    "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
+    "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Global Breaking News & World Reports • 720p HD"
+    "subtitle": "On The Ground • Prime Time English News & Debates • 1080p"
   },
   {
     "banner": "banner_zeebiz",
