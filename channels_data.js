@@ -638,50 +638,6 @@ window.CHANNELS_DATA = [
     "subtitle": "Deewana Bana De • 1080p FULL HD"
   },
   {
-    "banner": "https://iili.io/ofMP38P.png",
-    "category": "MOVIES",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "id": "sonymax2",
-    "name": "Sony MAX 2",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "quality": "1080p FULL HD",
-    "subCategory": "HINDI",
-    "subtitle": "Jab Dekho Tab Naya • 1080p FULL HD"
-  },
-  {
-    "banner": "https://iili.io/ofV4M6Q.png",
-    "category": "MOVIES",
-    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "id": "sonypix",
-    "name": "Sony PIX HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "quality": "1080p FULL HD",
-    "subCategory": "HOLLYWOOD",
-    "subtitle": "Stay Amazed • 1080p FULL HD"
-  },
-  {
-    "banner": "https://iili.io/ofhxfB1.png",
-    "category": "MOVIES",
-    "fallbackUrl": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-    "id": "hbo",
-    "name": "HBO HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "HOLLYWOOD",
-    "subtitle": "It's HBO • 1080p FULL HD"
-  },
-  {
-    "banner": "https://iili.io/ofhxqEF.png",
-    "category": "MOVIES",
-    "fallbackUrl": "http://15.204.246.24:8080/HBOHD/index.m3u8",
-    "id": "hbo2",
-    "name": "HBO 2 HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "HOLLYWOOD",
-    "subtitle": "More Movies, More Choice • 1080p FULL HD"
-  },
-  {
     "banner": "banner_zeecinema",
     "category": "MOVIES",
     "fallbackUrl": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b2628000.m3u8",
@@ -691,29 +647,6 @@ window.CHANNELS_DATA = [
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Bollywood Movies"
-  },
-  {
-    "banner": "https://iili.io/ofhomru.png",
-    "category": "MOVIES",
-    "fallbackUrl": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
-    "id": "andpictures",
-    "logo": "https://iili.io/ofhomru.png",
-    "name": "& Pictures HD",
-    "primaryUrl": "http://103.175.129.221/live/24WNKGE/XR26C4A/72165.m3u8",
-    "quality": "1080p FHD",
-    "subCategory": "BOLLYWOOD",
-    "subtitle": "Movieistan • 1080p FULL HD"
-  },
-  {
-    "banner": "banner_colorscineplex",
-    "category": "MOVIES",
-    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/playlist.m3u8",
-    "id": "colorscineplex",
-    "name": "Colors Cineplex",
-    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
   },
   {
     "banner": "banner_themovieclub",
@@ -727,6 +660,17 @@ window.CHANNELS_DATA = [
     "subtitle": "Bollywood Action & Blockbusters • 1080p"
   },
   {
+    "banner": "banner_nhbollyflix",
+    "category": "MOVIES",
+    "fallbackUrl": "https://d1bnb20pevkrom.cloudfront.net/BollyFlix_IN.m3u8",
+    "id": "nhbollyflix",
+    "name": "NH BollyFlix",
+    "primaryUrl": "https://d1bnb20pevkrom.cloudfront.net/BollyFlix_IN.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Non-Stop Bollywood Cinema • 1080p"
+  },
+  {
     "banner": "banner_themovieclub2",
     "category": "MOVIES",
     "fallbackUrl": "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8",
@@ -738,37 +682,15 @@ window.CHANNELS_DATA = [
     "subtitle": "Bollywood Action & Blockbusters • 1080p"
   },
   {
-    "banner": "banner_wedotv_movies",
+    "banner": "banner_erosnow",
     "category": "MOVIES",
-    "fallbackUrl": "https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8?ads.did=auto",
-    "id": "wedotvmovies",
-    "name": "WedoTV Movies",
-    "primaryUrl": "https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Free Movies & Cinema • 720p"
-  },
-  {
-    "banner": "banner_zeecineclassic",
-    "category": "MOVIES",
-    "fallbackUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "id": "zeecineclassic",
-    "name": "Zee Cine Classic",
-    "primaryUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Golden Era Bollywood Hits • 70s-90s"
-  },
-  {
-    "banner": "banner_nhbollyflix",
-    "category": "MOVIES",
-    "fallbackUrl": "https://d1bnb20pevkrom.cloudfront.net/BollyFlix_IN.m3u8",
-    "id": "nhbollyflix",
-    "name": "NH BollyFlix",
-    "primaryUrl": "https://d1bnb20pevkrom.cloudfront.net/BollyFlix_IN.m3u8",
+    "fallbackUrl": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
+    "id": "erosnow",
+    "name": "Eros Now",
+    "primaryUrl": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Cinema • 1080p"
+    "subtitle": "Bollywood Blockbusters & Hits • 1080p"
   },
   {
     "banner": "banner_hollywooddesi",
@@ -793,6 +715,28 @@ window.CHANNELS_DATA = [
     "subtitle": "Evergreen Retro Bollywood Hits • 1080p"
   },
   {
+    "banner": "banner_zeecineclassic",
+    "category": "MOVIES",
+    "fallbackUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "id": "zeecineclassic",
+    "name": "Zee Cine Classic",
+    "primaryUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Golden Era Bollywood Hits • 70s-90s"
+  },
+  {
+    "banner": "https://iili.io/ofMP38P.png",
+    "category": "MOVIES",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "id": "sonymax2",
+    "name": "Sony MAX 2",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "quality": "1080p FULL HD",
+    "subCategory": "HINDI",
+    "subtitle": "Jab Dekho Tab Naya • 1080p FULL HD"
+  },
+  {
     "banner": "banner_goldmines",
     "category": "MOVIES",
     "fallbackUrl": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
@@ -802,6 +746,62 @@ window.CHANNELS_DATA = [
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Hindi Dubbed Blockbusters"
+  },
+  {
+    "banner": "banner_alltimemovies",
+    "category": "MOVIES",
+    "fallbackUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+    "id": "alltimemovies",
+    "name": "All Time Movies",
+    "primaryUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "24x7 Bollywood & Evergreen Cinema • 720p"
+  },
+  {
+    "banner": "banner_zeesouthflix",
+    "category": "MOVIES",
+    "fallbackUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+    "id": "zeesouthflix",
+    "name": "Zee South Flix",
+    "primaryUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "South Indian Blockbusters in Hindi • 1080p"
+  },
+  {
+    "banner": "https://iili.io/ofhomru.png",
+    "category": "MOVIES",
+    "fallbackUrl": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
+    "id": "andpictures",
+    "logo": "https://iili.io/ofhomru.png",
+    "name": "& Pictures HD",
+    "primaryUrl": "http://103.175.129.221/live/24WNKGE/XR26C4A/72165.m3u8",
+    "quality": "1080p FHD",
+    "subCategory": "BOLLYWOOD",
+    "subtitle": "Movieistan • 1080p FULL HD"
+  },
+  {
+    "banner": "banner_goldminesbollywood",
+    "category": "MOVIES",
+    "fallbackUrl": "https://samitaorigin.tangotv.in/GOLDMINESBOLLYWOOD/SAMITAORIGIN/index.m3u8",
+    "id": "goldminesbollywood",
+    "name": "Goldmines Bollywood",
+    "primaryUrl": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
+  },
+  {
+    "banner": "banner_colorscineplex",
+    "category": "MOVIES",
+    "fallbackUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/playlist.m3u8",
+    "id": "colorscineplex",
+    "name": "Colors Cineplex",
+    "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
   },
   {
     "banner": "banner_b4umovies",
@@ -826,39 +826,6 @@ window.CHANNELS_DATA = [
     "subtitle": "Bollywood & South Action Blockbusters • 1080p FULL HD"
   },
   {
-    "banner": "banner_alltimemovies",
-    "category": "MOVIES",
-    "fallbackUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-    "id": "alltimemovies",
-    "name": "All Time Movies",
-    "primaryUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "24x7 Bollywood & Evergreen Cinema • 720p"
-  },
-  {
-    "banner": "banner_erosnow",
-    "category": "MOVIES",
-    "fallbackUrl": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
-    "id": "erosnow",
-    "name": "Eros Now",
-    "primaryUrl": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Bollywood Blockbusters & Hits • 1080p"
-  },
-  {
-    "banner": "banner_zeesouthflix",
-    "category": "MOVIES",
-    "fallbackUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-    "id": "zeesouthflix",
-    "name": "Zee South Flix",
-    "primaryUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "South Indian Blockbusters in Hindi • 1080p"
-  },
-  {
     "banner": "banner_southstation",
     "category": "MOVIES",
     "fallbackUrl": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
@@ -870,17 +837,6 @@ window.CHANNELS_DATA = [
     "subtitle": "Non-Stop South Action Movies • 1080p"
   },
   {
-    "banner": "banner_goldminesbollywood",
-    "category": "MOVIES",
-    "fallbackUrl": "https://samitaorigin.tangotv.in/GOLDMINESBOLLYWOOD/SAMITAORIGIN/index.m3u8",
-    "id": "goldminesbollywood",
-    "name": "Goldmines Bollywood",
-    "primaryUrl": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
-  },
-  {
     "banner": "banner_dishoomfilms",
     "category": "MOVIES",
     "fallbackUrl": "https://jmp2.uk/stvp-IN460001727",
@@ -890,6 +846,50 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Bollywood Action, Thrillers & Blockbusters • 1080p"
+  },
+  {
+    "banner": "https://iili.io/ofhxfB1.png",
+    "category": "MOVIES",
+    "fallbackUrl": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+    "id": "hbo",
+    "name": "HBO HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "HOLLYWOOD",
+    "subtitle": "It's HBO • 1080p FULL HD"
+  },
+  {
+    "banner": "https://iili.io/ofhxqEF.png",
+    "category": "MOVIES",
+    "fallbackUrl": "http://15.204.246.24:8080/HBOHD/index.m3u8",
+    "id": "hbo2",
+    "name": "HBO 2 HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "HOLLYWOOD",
+    "subtitle": "More Movies, More Choice • 1080p FULL HD"
+  },
+  {
+    "banner": "banner_wedotv_movies",
+    "category": "MOVIES",
+    "fallbackUrl": "https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8?ads.did=auto",
+    "id": "wedotvmovies",
+    "name": "WedoTV Movies",
+    "primaryUrl": "https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Free Movies & Cinema • 720p"
+  },
+  {
+    "banner": "https://iili.io/ofV4M6Q.png",
+    "category": "MOVIES",
+    "fallbackUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "id": "sonypix",
+    "name": "Sony PIX HD",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "quality": "1080p FULL HD",
+    "subCategory": "HOLLYWOOD",
+    "subtitle": "Stay Amazed • 1080p FULL HD"
   },
   {
     "banner": "https://iili.io/ofEZ88B.png",
@@ -1792,17 +1792,6 @@ window.CHANNELS_DATA = [
     "quality": "720p HD",
     "subCategory": "INTERNATIONAL",
     "subtitle": "America's Sports Leader • 720p HD"
-  },
-  {
-    "banner": "https://iili.io/ofhxzpR.png",
-    "category": "SPORTS",
-    "fallbackUrl": "https://tvpass.org/live/FoxSports2/sd",
-    "id": "foxsports2",
-    "name": "Fox Sports 2 HD",
-    "primaryUrl": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "INTERNATIONAL",
-    "subtitle": "All Sports, Live Action • 1080p FULL HD"
   },
   {
     "banner": "banner_ddsports",
