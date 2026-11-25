@@ -1838,6 +1838,83 @@
     "subtitle": "Non-Stop Fun & Toons • 1080p FULL HD"
   },
   {
+    "banner": "banner_wowkidz",
+    "category": "KIDS",
+    "fallbackUrl": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+    "id": "wowkidz",
+    "name": "WOW Kidz Hindi HD",
+    "primaryUrl": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Vir The Robot Boy & Toons • 720p"
+  },
+  {
+    "banner": "banner_hooraykids",
+    "category": "KIDS",
+    "fallbackUrl": "https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/3b47ff00-20cf-46d5-a330-bfcfdc8e58a2/0.m3u8",
+    "id": "hooraykids",
+    "name": "Hooray Kids",
+    "primaryUrl": "https://d3go3d9yw1x2sb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Kids Cartoons & Fun • 1080p"
+  },
+  {
+    "banner": "banner_hoorayrhymes",
+    "category": "KIDS",
+    "fallbackUrl": "https://d37mxw7rri7aso.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/4b7eb1a0-4cf8-4d57-8e65-ba43e33b63a2/0.m3u8",
+    "id": "hoorayrhymes",
+    "name": "Hooray Rhymes",
+    "primaryUrl": "https://d37mxw7rri7aso.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Rhymes & Nursery Melodies • 1080p"
+  },
+  {
+    "banner": "banner_powerkids",
+    "category": "KIDS",
+    "fallbackUrl": "https://d1s1t403pzp2rz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-caowluvnwycy4/6dfab1b0-1845-420a-b286-dd87f980132b/0.m3u8",
+    "id": "powerkids",
+    "name": "PowerKids TV",
+    "primaryUrl": "https://d1s1t403pzp2rz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-caowluvnwycy4/powerkids.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Action Animations & Adventures • 1080p"
+  },
+  {
+    "banner": "banner_epickids",
+    "category": "KIDS",
+    "fallbackUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/ff269723-48b5-4d1f-bd1c-334b739808bb/0.m3u8",
+    "id": "epickids",
+    "name": "Epic Kids HD",
+    "primaryUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8?ads.ads_cdn=ak&ads.cdn=ak",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Toons, Adventures & Fun • 1080p"
+  },
+  {
+    "banner": "banner_junglebook",
+    "category": "KIDS",
+    "fallbackUrl": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
+    "id": "junglebook",
+    "name": "The Jungle Book",
+    "primaryUrl": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Mowgli Adventures 24x7 • 1080p"
+  },
+  {
+    "banner": "banner_greengold",
+    "category": "KIDS",
+    "fallbackUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8",
+    "id": "greengold",
+    "name": "Chhota Bheem TV",
+    "primaryUrl": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Official Green Gold 24x7 • 1080p"
+  },
+  {
     "banner": "banner_cartoonnetwork",
     "category": "KIDS",
     "fallbackUrl": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8",
@@ -1880,83 +1957,6 @@
     "quality": "576p HQ",
     "subCategory": "",
     "subtitle": "Mystery Hunters & Little Singham • 576p"
-  },
-  {
-    "banner": "banner_greengold",
-    "category": "KIDS",
-    "fallbackUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8",
-    "id": "greengold",
-    "name": "Chhota Bheem TV",
-    "primaryUrl": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Official Green Gold 24x7 • 1080p"
-  },
-  {
-    "banner": "banner_junglebook",
-    "category": "KIDS",
-    "fallbackUrl": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
-    "id": "junglebook",
-    "name": "The Jungle Book",
-    "primaryUrl": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Mowgli Adventures 24x7 • 1080p"
-  },
-  {
-    "banner": "banner_epickids",
-    "category": "KIDS",
-    "fallbackUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/ff269723-48b5-4d1f-bd1c-334b739808bb/0.m3u8",
-    "id": "epickids",
-    "name": "Epic Kids HD",
-    "primaryUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8?ads.ads_cdn=ak&ads.cdn=ak",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Toons, Adventures & Fun • 1080p"
-  },
-  {
-    "banner": "banner_hooraykids",
-    "category": "KIDS",
-    "fallbackUrl": "https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/3b47ff00-20cf-46d5-a330-bfcfdc8e58a2/0.m3u8",
-    "id": "hooraykids",
-    "name": "Hooray Kids",
-    "primaryUrl": "https://d3go3d9yw1x2sb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Kids Cartoons & Fun • 1080p"
-  },
-  {
-    "banner": "banner_hoorayrhymes",
-    "category": "KIDS",
-    "fallbackUrl": "https://d37mxw7rri7aso.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/4b7eb1a0-4cf8-4d57-8e65-ba43e33b63a2/0.m3u8",
-    "id": "hoorayrhymes",
-    "name": "Hooray Rhymes",
-    "primaryUrl": "https://d37mxw7rri7aso.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Rhymes & Nursery Melodies • 1080p"
-  },
-  {
-    "banner": "banner_powerkids",
-    "category": "KIDS",
-    "fallbackUrl": "https://d1s1t403pzp2rz.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-caowluvnwycy4/6dfab1b0-1845-420a-b286-dd87f980132b/0.m3u8",
-    "id": "powerkids",
-    "name": "PowerKids TV",
-    "primaryUrl": "https://d1s1t403pzp2rz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-caowluvnwycy4/powerkids.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Action Animations & Adventures • 1080p"
-  },
-  {
-    "banner": "banner_wowkidz",
-    "category": "KIDS",
-    "fallbackUrl": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
-    "id": "wowkidz",
-    "name": "WOW Kidz Hindi HD",
-    "primaryUrl": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Vir The Robot Boy & Toons • 720p"
   },
   {
     "banner": "banner_humtv",
