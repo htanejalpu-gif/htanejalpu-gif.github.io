@@ -671,39 +671,6 @@ window.CHANNELS_DATA = [
     "subtitle": "Blockbuster Hindi & South Dubbed • 1080p"
   },
   {
-    "id": "zeeaction",
-    "name": "Zee Action HD",
-    "category": "MOVIES",
-    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=735400&extension=m3u8",
-    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=735400&extension=m3u8",
-    "banner": "banner_zeeaction",
-    "subCategory": "",
-    "quality": "1080p FULL HD",
-    "subtitle": "Non-Stop Action Movies • 1080p"
-  },
-  {
-    "id": "zing",
-    "name": "Zing HD",
-    "category": "MOVIES",
-    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=737321&extension=m3u8",
-    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=737321&extension=m3u8",
-    "banner": "banner_zing",
-    "subCategory": "",
-    "quality": "1080p FULL HD",
-    "subtitle": "Youth Cinema, Music & K-Dramas • 1080p"
-  },
-  {
-    "id": "starutsavmovies",
-    "name": "Star Utsav Movies HD",
-    "category": "MOVIES",
-    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=737322&extension=m3u8",
-    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=737322&extension=m3u8",
-    "banner": "banner_starutsavmovies",
-    "subCategory": "",
-    "quality": "1080p FULL HD",
-    "subtitle": "Family Hindi & Regional Cinema • 1080p"
-  },
-  {
     "banner": "banner_themovieclub",
     "category": "MOVIES",
     "fallbackUrl": "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8",
@@ -1628,17 +1595,6 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Investigation & Forensic TV • 1080p"
-  },
-  {
-    "banner": "https://iili.io/of7HykF.png",
-    "category": "ENTERTAINMENT",
-    "fallbackUrl": "https://cc-781sm3dbw07tp.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-781sm3dbw07tp/rangmanchtv/playlist.m3u8",
-    "id": "rangmanch",
-    "name": "Rangmanch HD",
-    "primaryUrl": "https://cc-781sm3dbw07tp.akamaized.net/rangmanchtv/index.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Marathi Drama, Culture & Entertainment • 1080p FULL HD"
   },
   {
     "banner": "banner_pitaara",
