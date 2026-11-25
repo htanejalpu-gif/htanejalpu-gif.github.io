@@ -1,4 +1,5 @@
-window.CHANNELS_DATA = [
+// Auto-generated channels data
+const CHANNELS_DATA = [
   {
     "banner": "banner_epictv",
     "category": "INFOTAINMENT",
@@ -8,7 +9,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1fodel5fjpe8b.cloudfront.net/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Indian History, Mysteries & Culture • 1080p"
+    "subtitle": "Indian History, Mysteries & Culture \u2022 1080p"
   },
   {
     "banner": "banner_history18",
@@ -30,7 +31,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Travel, Food & Culture • 720p"
+    "subtitle": "Travel, Food & Culture \u2022 720p"
   },
   {
     "banner": "banner_foodxp",
@@ -41,7 +42,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Food, Celebrity Chefs & Street Food • 1080p"
+    "subtitle": "Food, Celebrity Chefs & Street Food \u2022 1080p"
   },
   {
     "banner": "banner_foodiehub",
@@ -52,7 +53,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dgrx36x5lto.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-2b91n3jwh0gr0/FoodieHub_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Culinary Delights & Recipes • 1080p"
+    "subtitle": "Culinary Delights & Recipes \u2022 1080p"
   },
   {
     "banner": "banner_cookbake",
@@ -63,7 +64,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2syhcfylrt9wq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y57d928i54m3f/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Baking, Cooking Shows & Gourmet Treats • 1080p"
+    "subtitle": "Baking, Cooking Shows & Gourmet Treats \u2022 1080p"
   },
   {
     "banner": "banner_discovery",
@@ -74,7 +75,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Science, Nature & Wildlife • 720p HD"
+    "subtitle": "Science, Nature & Wildlife \u2022 720p HD"
   },
   {
     "banner": "https://iili.io/ofhxuhN.png",
@@ -85,7 +86,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Inspiring People to Care • 1080p FULL HD"
+    "subtitle": "Inspiring People to Care \u2022 1080p FULL HD"
   },
   {
     "banner": "https://iili.io/ofhx5Bt.png",
@@ -96,7 +97,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Motors, Speed & Adrenaline • 720p HD"
+    "subtitle": "Motors, Speed & Adrenaline \u2022 720p HD"
   },
   {
     "banner": "banner_discoveryscience",
@@ -107,7 +108,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Tech & Scientific Exploration • 720p"
+    "subtitle": "Tech & Scientific Exploration \u2022 720p"
   },
   {
     "banner": "banner_animalplanet",
@@ -118,7 +119,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Wildlife & Nature • 720p"
+    "subtitle": "Wildlife & Nature \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofV2C7e.png",
@@ -129,7 +130,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Feel Alive • 1080p FULL HD"
+    "subtitle": "Feel Alive \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_insighttv",
@@ -140,7 +141,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Action Sports & Adventure • 1080p"
+    "subtitle": "Action Sports & Adventure \u2022 1080p"
   },
   {
     "banner": "banner_tlc",
@@ -151,7 +152,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Lifestyle & Food • 720p"
+    "subtitle": "Lifestyle & Food \u2022 720p"
   },
   {
     "banner": "banner_ndtvgoodtimes",
@@ -162,7 +163,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
     "quality": "480p SD",
     "subCategory": "",
-    "subtitle": "Food, Lifestyle & Luxury • 480p"
+    "subtitle": "Food, Lifestyle & Luxury \u2022 480p"
   },
   {
     "banner": "banner_docubay",
@@ -173,7 +174,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Global Documentaries • Nature & Crime • 1080p"
+    "subtitle": "Global Documentaries \u2022 Nature & Crime \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofYo7Ax.png",
@@ -206,7 +207,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Hindi News • Top Stories • 1080p"
+    "subtitle": "Hindi News \u2022 Top Stories \u2022 1080p"
   },
   {
     "banner": "banner_abp",
@@ -217,7 +218,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Hindi News • Live • 1080p"
+    "subtitle": "Hindi News \u2022 Live \u2022 1080p"
   },
   {
     "banner": "banner_zeenews",
@@ -228,7 +229,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "National News • 1080p"
+    "subtitle": "National News \u2022 1080p"
   },
   {
     "banner": "banner_ndtv",
@@ -239,7 +240,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Hindi News • Analysis • 1080p"
+    "subtitle": "Hindi News \u2022 Analysis \u2022 1080p"
   },
   {
     "banner": "banner_news18",
@@ -250,7 +251,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "National News • 1080p"
+    "subtitle": "National News \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofAZi2j.png",
@@ -261,7 +262,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Rashtra Ke Naam • High Voltage Hindi Debates • 1080p"
+    "subtitle": "Rashtra Ke Naam \u2022 High Voltage Hindi Debates \u2022 1080p"
   },
   {
     "banner": "banner_indiatvlive",
@@ -272,7 +273,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Aapki Awaaz • Live Breaking News & Analysis • 1080p"
+    "subtitle": "Aapki Awaaz \u2022 Live Breaking News & Analysis \u2022 1080p"
   },
   {
     "banner": "banner_tv9bharatvarsh",
@@ -283,7 +284,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c2-amgplt0844/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Fikr Aapki • National Breaking & Global Defense • 1080p"
+    "subtitle": "Fikr Aapki \u2022 National Breaking & Global Defense \u2022 1080p"
   },
   {
     "banner": "banner_timesnownavbharat",
@@ -294,7 +295,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Hindi News & Primetime Debates • 1080p"
+    "subtitle": "Hindi News & Primetime Debates \u2022 1080p"
   },
   {
     "banner": "banner_ddnews",
@@ -305,7 +306,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "India's National Public News Broadcaster • 1080p"
+    "subtitle": "India's National Public News Broadcaster \u2022 1080p"
   },
   {
     "banner": "banner_newsnation",
@@ -316,7 +317,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "National News • 1080p"
+    "subtitle": "National News \u2022 1080p"
   },
   {
     "banner": "banner_lallantop",
@@ -327,7 +328,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1y7y0e2w0urxg.cloudfront.net/tvtn/lallantop/samsung/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Baithak, Ground Reports & Analysis • 1080p"
+    "subtitle": "Baithak, Ground Reports & Analysis \u2022 1080p"
   },
   {
     "banner": "banner_goodnewstoday",
@@ -338,7 +339,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://feeds.intoday.in/gnt/api/master.m3u8",
     "quality": "720p HD",
     "subCategory": "HINDI",
-    "subtitle": "Positive Stories, Inspiration & News • 720p"
+    "subtitle": "Positive Stories, Inspiration & News \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofAFaXj.png",
@@ -349,7 +350,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://stream.ottlive.co.in/news24/tracks-v1a1/mono.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Rashtra Ki Baat • Hindi News • 1080p"
+    "subtitle": "Rashtra Ki Baat \u2022 Hindi News \u2022 1080p"
   },
   {
     "banner": "https://iili.io/of7HYba.png",
@@ -360,7 +361,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-ax7fwp25aou64.akamaized.net/indiadailylive/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Samaj Badlega Desh Badlega • 1080p FULL HD"
+    "subtitle": "Samaj Badlega Desh Badlega \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_indiatoday",
@@ -371,7 +372,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://feeds.intoday.in/hltapps/api/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Breaking News & Global Headlines • 1080p"
+    "subtitle": "Breaking News & Global Headlines \u2022 1080p"
   },
   {
     "banner": "banner_ndtv24x7",
@@ -382,7 +383,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-samsungin-ndtv24x7-samsungin-ad.amagi.tv/playlist/amg01448-samsungin-ndtv24x7-samsungin/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "English News & Debate • 1080p"
+    "subtitle": "English News & Debate \u2022 1080p"
   },
   {
     "banner": "banner_timesnowworld",
@@ -393,7 +394,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Global & National Breaking News • 720p"
+    "subtitle": "Global & National Breaking News \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofAZDhP.png",
@@ -404,7 +405,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "India's Leading English News & Primetime Debates • 1080p"
+    "subtitle": "India's Leading English News & Primetime Debates \u2022 1080p"
   },
   {
     "banner": "banner_wion",
@@ -415,7 +416,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-samsungin-zeewion-samsungin-ad-k3.amagi.tv/playlist/amg01448-samsungin-zeewion-samsungin/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "World Is One News • 1080p"
+    "subtitle": "World Is One News \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofAPs6v.png",
@@ -426,7 +427,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Global Breaking News & World Reports • 720p HD"
+    "subtitle": "Global Breaking News & World Reports \u2022 720p HD"
   },
   {
     "banner": "banner_mirrornow",
@@ -437,7 +438,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-310426/timesnow_mirrornow_3500k.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Civic Issues & Breaking News • 1080p"
+    "subtitle": "Civic Issues & Breaking News \u2022 1080p"
   },
   {
     "banner": "banner_news9",
@@ -448,7 +449,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-samsungin-news9live-samsungin-y3kuf.amagi.tv/playlist/amg01448-samsungin-news9live-samsungin/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Fast English News Stream • 1080p"
+    "subtitle": "Fast English News Stream \u2022 1080p"
   },
   {
     "banner": "banner_firstpost",
@@ -459,7 +460,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/Firstpost_NW18_MOB/output01/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Global Perspectives & In-Depth Analysis • 720p"
+    "subtitle": "Global Perspectives & In-Depth Analysis \u2022 720p"
   },
   {
     "banner": "banner_cnnnews18",
@@ -470,7 +471,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "On The Ground • Prime Time English News & Debates • 1080p"
+    "subtitle": "On The Ground \u2022 Prime Time English News & Debates \u2022 1080p"
   },
   {
     "banner": "banner_cnbc",
@@ -481,7 +482,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
     "quality": "720p HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Markets & Business • 720p"
+    "subtitle": "Markets & Business \u2022 720p"
   },
   {
     "banner": "banner_etswadesh",
@@ -492,7 +493,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
     "quality": "720p HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Business & Stocks • 720p"
+    "subtitle": "Business & Stocks \u2022 720p"
   },
   {
     "banner": "banner_zeebiz",
@@ -503,7 +504,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
     "quality": "720p HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Markets & Finance • 720p"
+    "subtitle": "Markets & Finance \u2022 720p"
   },
   {
     "banner": "banner_cnbctv18",
@@ -514,7 +515,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-samsungin-nw18cnbc-samsungin-ad-n4.amagi.tv/playlist/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8?ads.coppa=0",
     "quality": "1080p FULL HD",
     "subCategory": "BUSINESS",
-    "subtitle": "India's Premier Business & Financial News • 1080p"
+    "subtitle": "India's Premier Business & Financial News \u2022 1080p"
   },
   {
     "banner": "banner_ndtvprofit",
@@ -525,7 +526,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Business & Markets • 1080p"
+    "subtitle": "Business & Markets \u2022 1080p"
   },
   {
     "banner": "banner_etnow",
@@ -536,7 +537,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
     "quality": "720p HD",
     "subCategory": "BUSINESS",
-    "subtitle": "India's Leading Business & Financial News • 720p"
+    "subtitle": "India's Leading Business & Financial News \u2022 720p"
   },
   {
     "banner": "banner_businesstoday",
@@ -547,7 +548,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://feeds.intoday.in/bttv/itgd.m3u8",
     "quality": "720p HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Markets, Economy & Corporate News • 720p"
+    "subtitle": "Markets, Economy & Corporate News \u2022 720p"
   },
   {
     "banner": "banner_bloomberg",
@@ -558,7 +559,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://www.bloomberg.com/media-manifest/streams/us.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "BUSINESS",
-    "subtitle": "Global Business & Markets • 1080p"
+    "subtitle": "Global Business & Markets \u2022 1080p"
   },
   {
     "banner": "banner_zeepunjabnews",
@@ -569,7 +570,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Punjab, Haryana & Himachal Regional News & Updates • 720p"
+    "subtitle": "Punjab, Haryana & Himachal Regional News & Updates \u2022 720p"
   },
   {
     "banner": "banner_zeedelhincr",
@@ -580,7 +581,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Delhi, NCR & Haryana Regional News & Updates • 720p"
+    "subtitle": "Delhi, NCR & Haryana Regional News & Updates \u2022 720p"
   },
   {
     "banner": "banner_indianewsharyana",
@@ -591,7 +592,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://fta.ektv.in/live/590/master.m3u8",
     "quality": "576p HQ",
     "subCategory": "REGIONAL",
-    "subtitle": "Haryana's Dedicated 24x7 Regional News Network • 576p"
+    "subtitle": "Haryana's Dedicated 24x7 Regional News Network \u2022 576p"
   },
   {
     "banner": "banner_news18punjab",
@@ -602,7 +603,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Punjab, Haryana & Himachal Breaking News • 1080p"
+    "subtitle": "Punjab, Haryana & Himachal Breaking News \u2022 1080p"
   },
   {
     "banner": "banner_ptcnews",
@@ -613,7 +614,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Leading Punjab, Haryana & Chandigarh News • 720p"
+    "subtitle": "Leading Punjab, Haryana & Chandigarh News \u2022 720p"
   },
   {
     "banner": "https://iili.io/of7UQ44.png",
@@ -624,7 +625,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-bem7bmz6ukynx.akamaized.net/nntv/nnpunj/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Punjab • Haryana • Himachal Pradesh • 1080p FULL HD"
+    "subtitle": "Punjab \u2022 Haryana \u2022 Himachal Pradesh \u2022 1080p FULL HD"
   },
   {
     "banner": "https://iili.io/ofM6Q87.png",
@@ -635,7 +636,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Deewana Bana De • 1080p FULL HD"
+    "subtitle": "Deewana Bana De \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_zeecinema",
@@ -657,7 +658,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2tiq0lnb179mp.cloudfront.net/TMC_IN.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Action & Blockbusters • 1080p"
+    "subtitle": "Bollywood Action & Blockbusters \u2022 1080p"
   },
   {
     "banner": "banner_nhbollyflix",
@@ -668,7 +669,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1bnb20pevkrom.cloudfront.net/BollyFlix_IN.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Cinema • 1080p"
+    "subtitle": "Non-Stop Bollywood Cinema \u2022 1080p"
   },
   {
     "banner": "banner_themovieclub2",
@@ -679,7 +680,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Action & Blockbusters • 1080p"
+    "subtitle": "Bollywood Action & Blockbusters \u2022 1080p"
   },
   {
     "banner": "banner_erosnow",
@@ -690,7 +691,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Blockbusters & Hits • 1080p"
+    "subtitle": "Bollywood Blockbusters & Hits \u2022 1080p"
   },
   {
     "banner": "banner_hollywooddesi",
@@ -701,7 +702,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d21eryt9uyhipq.cloudfront.net/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Hollywood Blockbusters in Hindi • 1080p"
+    "subtitle": "Hollywood Blockbusters in Hindi \u2022 1080p"
   },
   {
     "banner": "banner_bollygold",
@@ -712,7 +713,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3hhl0gm4nhbkv.cloudfront.net/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Evergreen Retro Bollywood Hits • 1080p"
+    "subtitle": "Evergreen Retro Bollywood Hits \u2022 1080p"
   },
   {
     "banner": "banner_zeecineclassic",
@@ -723,7 +724,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Golden Era Bollywood Hits • 70s-90s"
+    "subtitle": "Golden Era Bollywood Hits \u2022 70s-90s"
   },
   {
     "banner": "https://iili.io/ofMP38P.png",
@@ -734,7 +735,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Jab Dekho Tab Naya • 1080p FULL HD"
+    "subtitle": "Jab Dekho Tab Naya \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_goldmines",
@@ -753,7 +754,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Evergreen Golden Era Bollywood Cinema • 1080p FULL HD",
+    "subtitle": "Evergreen Golden Era Bollywood Cinema \u2022 1080p FULL HD",
     "banner": "https://iili.io/oftoxg2.png",
     "primaryUrl": "https://vods2.aynaott.com/hindimovies/index.m3u8",
     "fallbackUrl": "https://vods2.aynaott.com/hindimovies/index.m3u8"
@@ -767,7 +768,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "24x7 Bollywood & Evergreen Cinema • 720p"
+    "subtitle": "24x7 Bollywood & Evergreen Cinema \u2022 720p"
   },
   {
     "banner": "banner_zeesouthflix",
@@ -778,7 +779,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "South Indian Blockbusters in Hindi • 1080p"
+    "subtitle": "South Indian Blockbusters in Hindi \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofhomru.png",
@@ -790,7 +791,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://103.175.129.221/live/24WNKGE/XR26C4A/72165.m3u8",
     "quality": "1080p FHD",
     "subCategory": "BOLLYWOOD",
-    "subtitle": "Movieistan • 1080p FULL HD"
+    "subtitle": "Movieistan \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_goldminesbollywood",
@@ -801,7 +802,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
+    "subtitle": "Non-Stop Bollywood Blockbusters \u2022 720p"
   },
   {
     "banner": "banner_colorscineplex",
@@ -812,7 +813,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Bollywood Blockbusters • 720p"
+    "subtitle": "Non-Stop Bollywood Blockbusters \u2022 720p"
   },
   {
     "banner": "banner_b4umovies",
@@ -834,7 +835,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood & South Action Blockbusters • 1080p FULL HD"
+    "subtitle": "Bollywood & South Action Blockbusters \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_southstation",
@@ -845,7 +846,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop South Action Movies • 1080p"
+    "subtitle": "Non-Stop South Action Movies \u2022 1080p"
   },
   {
     "banner": "banner_dishoomfilms",
@@ -856,7 +857,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1i2c9u9bg7ji9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ekn1swkg8b4cn/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Action, Thrillers & Blockbusters • 1080p"
+    "subtitle": "Bollywood Action, Thrillers & Blockbusters \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofhxfB1.png",
@@ -867,7 +868,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HOLLYWOOD",
-    "subtitle": "It's HBO • 1080p FULL HD"
+    "subtitle": "It's HBO \u2022 1080p FULL HD"
   },
   {
     "banner": "https://iili.io/ofhxqEF.png",
@@ -878,7 +879,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen3.aynaott.com/u3NjUrny/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "HOLLYWOOD",
-    "subtitle": "More Movies, More Choice • 1080p FULL HD"
+    "subtitle": "More Movies, More Choice \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_wedotv_movies",
@@ -889,7 +890,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00735-amg00735c46-samsung-in-11523.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg00735-videosolutionsagfast-wedomoviesasia-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Free Movies & Cinema • 720p"
+    "subtitle": "Free Movies & Cinema \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofV4M6Q.png",
@@ -900,7 +901,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HOLLYWOOD",
-    "subtitle": "Stay Amazed • 1080p FULL HD"
+    "subtitle": "Stay Amazed \u2022 1080p FULL HD"
   },
   {
     "id": "lionsgatemoviesphere",
@@ -908,7 +909,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Blockbuster Cinema & Action Thrillers • 1080p FULL HD",
+    "subtitle": "Blockbuster Cinema & Action Thrillers \u2022 1080p FULL HD",
     "banner": "https://iili.io/ofto7Wb.png",
     "primaryUrl": "https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8",
     "fallbackUrl": "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8"
@@ -919,7 +920,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Miramax Studio Films & Award-Winning Cinema • 1080p",
+    "subtitle": "Miramax Studio Films & Award-Winning Cinema \u2022 1080p",
     "banner": "https://iili.io/oftoO1R.png",
     "primaryUrl": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8",
     "fallbackUrl": "https://linear-798.frequency.stream/mt/tcltv/798/hls/master/playlist_1280x720.m3u8"
@@ -930,7 +931,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Paramount Studio Blockbusters & Classics • 720p",
+    "subtitle": "Paramount Studio Blockbusters & Classics \u2022 720p",
     "banner": "https://iili.io/ofto6LG.png",
     "primaryUrl": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
     "fallbackUrl": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8"
@@ -941,7 +942,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Universal Studios Cinema & Action Thrillers • 720p",
+    "subtitle": "Universal Studios Cinema & Action Thrillers \u2022 720p",
     "banner": "https://iili.io/oftxCTF.png",
     "primaryUrl": "https://jmp2.uk/plu-654933e253fc970008390114.m3u8",
     "fallbackUrl": "https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8"
@@ -952,7 +953,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Great! Modern Hollywood & Cult Favorites • 1080p",
+    "subtitle": "Great! Modern Hollywood & Cult Favorites \u2022 1080p",
     "banner": "https://iili.io/oftzdtn.png",
     "primaryUrl": "https://jmp2.uk/stvp-GBBC900007Q5",
     "fallbackUrl": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
@@ -963,7 +964,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "720p HD",
     "subCategory": "ENGLISH",
-    "subtitle": "Pluto TV Feature Films & Hollywood Cinema • 720p",
+    "subtitle": "Pluto TV Feature Films & Hollywood Cinema \u2022 720p",
     "banner": "https://iili.io/oftz4ff.png",
     "primaryUrl": "https://jmp2.uk/stvp-GBAK3504504A",
     "fallbackUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8"
@@ -974,7 +975,7 @@ window.CHANNELS_DATA = [
     "category": "MOVIES",
     "quality": "1080p FULL HD",
     "subCategory": "ENGLISH",
-    "subtitle": "High-Octane Action, Sci-Fi & Crime Thrillers • 1080p",
+    "subtitle": "High-Octane Action, Sci-Fi & Crime Thrillers \u2022 1080p",
     "banner": "https://iili.io/oftIqWg.png",
     "primaryUrl": "https://jmp2.uk/stvp-GB2600015OS",
     "fallbackUrl": "https://jmp2.uk/stvp-GB2600013BO"
@@ -988,7 +989,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/ZjvZhdiB?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Hindi (DD 5.1) • 1080p Full HD • 2.7 GB"
+    "subtitle": "Bollywood Hindi (DD 5.1) \u2022 1080p Full HD \u2022 2.7 GB"
   },
   {
     "banner": "https://iili.io/ofGFb1I.jpg",
@@ -999,7 +1000,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/vbQ6VN9i?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Hindi (DD 5.1) • 1080p Full HD • 1.5 GB"
+    "subtitle": "Bollywood Hindi (DD 5.1) \u2022 1080p Full HD \u2022 1.5 GB"
   },
   {
     "banner": "https://iili.io/ofEWLOX.png",
@@ -1010,7 +1011,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/uDs5rF7o?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Hindi (DD 5.1) • 1080p Full HD • 2.7 GB"
+    "subtitle": "Bollywood Hindi (DD 5.1) \u2022 1080p Full HD \u2022 2.7 GB"
   },
   {
     "banner": "https://iili.io/ofEWpf4.png",
@@ -1021,7 +1022,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/Bba5wrae?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Punjabi (DDP 5.1) • 1080p Full HD • 7.8 GB"
+    "subtitle": "Punjabi (DDP 5.1) \u2022 1080p Full HD \u2022 7.8 GB"
   },
   {
     "banner": "banner_sarpanch",
@@ -1032,7 +1033,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://161cc26b6ea08e39f2714552ce321481.r2.cloudflarestorage.com/hax/0b6ccd56a853e0ebd2b3aad3f7cea733?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=455d7a7b930490ad5b26566dce45c3c9%2F20261123%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261123T213317Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Sarpanch%20%282026%29%20Punjabi%20Movie%20HD%201080p%20CHTV%20WEB-DL.mkv%22&X-Amz-Signature=2b28fb040ef197eb2e4bc31fcd083803c9f668454dc771337bee40f7104c8057",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Punjabi (2026) • 1080p Full HD • 5.2 GB"
+    "subtitle": "Punjabi (2026) \u2022 1080p Full HD \u2022 5.2 GB"
   },
   {
     "banner": "banner_drishyam_3",
@@ -1043,7 +1044,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/568RqWaY?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Hindi HQ + Malayalam • Dual Audio • 1080p Full HD"
+    "subtitle": "Hindi HQ + Malayalam \u2022 Dual Audio \u2022 1080p Full HD"
   },
   {
     "banner": "banner_baththa",
@@ -1054,7 +1055,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/w2dMKPep?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Hindi DDP 5.1 + Tamil • Dual Audio • 1080p Full HD"
+    "subtitle": "Hindi DDP 5.1 + Tamil \u2022 Dual Audio \u2022 1080p Full HD"
   },
   {
     "banner": "banner_pitt_siyapa",
@@ -1065,7 +1066,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://pixeldrain.dev/api/file/VhJDut7u?download",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Punjabi • Original Audio • 1080p Full HD"
+    "subtitle": "Punjabi \u2022 Original Audio \u2022 1080p Full HD"
   },
   {
     "banner": "banner_kankaan_de_ohle",
@@ -1076,7 +1077,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dl.dropboxusercontent.com/scl/fi/lvl1atv5mivgr4zqzjdgc/Kankaan-De-Ohle-2026-Punjabi.mkv?rlkey=kzg887lgico25s1aocyuz3g2i&st=vhlrv429",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Punjabi Feature Film (2026) • 1080p Full HD"
+    "subtitle": "Punjabi Feature Film (2026) \u2022 1080p Full HD"
   },
   {
     "banner": "banner_kingsofcomedy",
@@ -1087,7 +1088,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3tos2l5w90jcv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-1ivk8qcy5ihd1/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Comedy & Gags • 1080p"
+    "subtitle": "Non-Stop Comedy & Gags \u2022 1080p"
   },
   {
     "banner": "banner_comedyking",
@@ -1098,7 +1099,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d348ydbk2sf0eq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ttp5jxbr5oygy/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Standup & Comedy Scenes • 1080p"
+    "subtitle": "Standup & Comedy Scenes \u2022 1080p"
   },
   {
     "banner": "banner_zeecomedy",
@@ -1109,7 +1110,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Best Of Zee Comedy • 720p"
+    "subtitle": "Best Of Zee Comedy \u2022 720p"
   },
   {
     "banner": "banner_yrfmusic",
@@ -1120,7 +1121,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Yash Raj Melodies • 1080p"
+    "subtitle": "Yash Raj Melodies \u2022 1080p"
   },
   {
     "banner": "banner_filmigaane",
@@ -1164,7 +1165,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Top Punjabi Music • 1080p"
+    "subtitle": "Top Punjabi Music \u2022 1080p"
   },
   {
     "banner": "banner_9xjalwa",
@@ -1197,7 +1198,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3q7boydbwbbm0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-herfuyvo6swzh/BollyRaga_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Melodies & Rhythms • 1080p"
+    "subtitle": "Bollywood Melodies & Rhythms \u2022 1080p"
   },
   {
     "banner": "banner_epicmusic",
@@ -1208,7 +1209,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Soundtracks & Folk Fusion • 1080p"
+    "subtitle": "Soundtracks & Folk Fusion \u2022 1080p"
   },
   {
     "banner": "https://upload.wikimedia.org/wikipedia/en/1/17/E24-TV-Channel.jpg",
@@ -1219,7 +1220,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Bollywood Music, Glamour & Hits • 720p HD"
+    "subtitle": "Bollywood Music, Glamour & Hits \u2022 720p HD"
   },
   {
     "banner": "banner_b4umusic",
@@ -1241,7 +1242,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01076-amg01076c1-samsung-in-7053.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-samsungin/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "70s Golden Era Classics • 720p"
+    "subtitle": "70s Golden Era Classics \u2022 720p"
   },
   {
     "banner": "banner_thats80s",
@@ -1252,7 +1253,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01076-amg01076c2-samsung-in-7056.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-samsungin/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "80s Greatest Hits • 720p"
+    "subtitle": "80s Greatest Hits \u2022 720p"
   },
   {
     "banner": "banner_thats90s",
@@ -1263,7 +1264,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01076-amg01076c19-samsung-in-7054.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsungin/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "90s & 2000s Pop Classics • 720p"
+    "subtitle": "90s & 2000s Pop Classics \u2022 720p"
   },
   {
     "banner": "banner_thatsrock",
@@ -1274,7 +1275,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01076-amg01076c3-samsung-in-7063.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-samsungin/playlist.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Rock Anthems & Legends • 720p"
+    "subtitle": "Rock Anthems & Legends \u2022 720p"
   },
   {
     "banner": "banner_kmusic",
@@ -1285,7 +1286,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "K-Pop Hits & Idol Waves • 1080p"
+    "subtitle": "K-Pop Hits & Idol Waves \u2022 1080p"
   },
   {
     "banner": "banner_bhaktiplay",
@@ -1296,7 +1297,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3v2e6p082m433.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-csxkwhp8ictcv/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bhajans & Devotional Music • 1080p"
+    "subtitle": "Bhajans & Devotional Music \u2022 1080p"
   },
   {
     "banner": "banner_divyabhajan",
@@ -1307,7 +1308,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2dr8wvvgh18sj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-k20ok0lvxr28v/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Sacred Bhajans & Kirtan • 1080p"
+    "subtitle": "Sacred Bhajans & Kirtan \u2022 1080p"
   },
   {
     "banner": "banner_dharmalive",
@@ -1318,7 +1319,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-a8q0jnl3p75g9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a8q0jnl3p75g9/v1/channel/DharmaLIVE/DharmaLIVE_m.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Spiritual Discourses & Darshan • 720p"
+    "subtitle": "Spiritual Discourses & Darshan \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofV4Enj.png",
@@ -1329,7 +1330,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "SET • 1080p FULL HD"
+    "subtitle": "SET \u2022 1080p FULL HD"
   },
   {
     "banner": "https://iili.io/ofGpDxI.png",
@@ -1340,7 +1341,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Khushiyon Wali Feeling • 1080p FULL HD"
+    "subtitle": "Khushiyon Wali Feeling \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_colors",
@@ -1363,7 +1364,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://jmp2.uk/stvp-GB800002OP",
     "quality": "1080p Full HD",
     "subCategory": "HINDI",
-    "subtitle": "Hai Khaas Har Andaaz • 1080p FULL HD"
+    "subtitle": "Hai Khaas Har Andaaz \u2022 1080p FULL HD"
   },
   {
     "id": "zeeone",
@@ -1371,7 +1372,7 @@ window.CHANNELS_DATA = [
     "category": "ENTERTAINMENT",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Zee Entertainment International Hits • 1080p FULL HD",
+    "subtitle": "Zee Entertainment International Hits \u2022 1080p FULL HD",
     "banner": "https://iili.io/ofto2Rt.png",
     "primaryUrl": "https://jmp2.uk/stvp-DEAJ2900003CN",
     "fallbackUrl": "https://jmp2.uk/stvp-ATBA3300006WH"
@@ -1385,7 +1386,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://38.96.178.205/STARPLUS/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Star • Mega Hindi Serials"
+    "subtitle": "Star \u2022 Mega Hindi Serials"
   },
   {
     "banner": "banner_zeetv",
@@ -1396,7 +1397,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://38.96.178.205/ZEE_TV/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Zee • Primetime Entertainment"
+    "subtitle": "Zee \u2022 Primetime Entertainment"
   },
   {
     "banner": "banner_colorsrishtey",
@@ -1407,7 +1408,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1rc86nwwc9fag.cloudfront.net/260723/rishteyuk_1800/chunks.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Hindi Family Dramas & Blockbusters • 720p"
+    "subtitle": "Hindi Family Dramas & Blockbusters \u2022 720p"
   },
   {
     "banner": "banner_starbharat",
@@ -1418,7 +1419,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/chunklist_b2628000.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Bhula De Darr • Hindi Serials & Dramas • 720p"
+    "subtitle": "Bhula De Darr \u2022 Hindi Serials & Dramas \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofV2JIf.png",
@@ -1429,7 +1430,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
     "subCategory": "HINDI",
-    "subtitle": "Yeh Pal Hamara Hai • HD"
+    "subtitle": "Yeh Pal Hamara Hai \u2022 HD"
   },
   {
     "banner": "https://iili.io/ofV2FB2.png",
@@ -1440,7 +1441,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "720p HD",
     "subCategory": "HINDI",
-    "subtitle": "Filmon Ka Mela • HD"
+    "subtitle": "Filmon Ka Mela \u2022 HD"
   },
   {
     "banner": "banner_aapkkiadalat",
@@ -1451,7 +1452,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8?ads.coppa=0",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Rajat Sharma Iconic Interviews • 1080p"
+    "subtitle": "Rajat Sharma Iconic Interviews \u2022 1080p"
   },
   {
     "banner": "banner_bollywoodmasala",
@@ -1462,7 +1463,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-oocjjcprb2v3h.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oocjjcprb2v3h/ptnr-samsung/title-Bollywood_Masala/sofastplayout/751631cf-7a0d-356e-676e-b84cfec03391_0_HLS/manifest.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bollywood Gossip & Entertainment • 1080p"
+    "subtitle": "Bollywood Gossip & Entertainment \u2022 1080p"
   },
   {
     "banner": "banner_shemarootv",
@@ -1495,7 +1496,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Culturally Resonant Indian Family Dramas & Entertainment • 720p"
+    "subtitle": "Culturally Resonant Indian Family Dramas & Entertainment \u2022 720p"
   },
   {
     "banner": "banner_epiccrimes",
@@ -1506,7 +1507,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Gripping Crime Chronicles • 1080p"
+    "subtitle": "Gripping Crime Chronicles \u2022 1080p"
   },
   {
     "banner": "banner_ddnational",
@@ -1517,7 +1518,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "India's Flagship National Broadcaster • 1080p"
+    "subtitle": "India's Flagship National Broadcaster \u2022 1080p"
   },
   {
     "banner": "banner_koreantv",
@@ -1528,7 +1529,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d2ta4bqxv3hgr7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y5gitldbaizaw/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "K-Dramas & Korean Entertainment • 1080p"
+    "subtitle": "K-Dramas & Korean Entertainment \u2022 1080p"
   },
   {
     "banner": "banner_crimetak",
@@ -1539,7 +1540,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01448-amg01448c19-samsung-in-4352.playouts.now.amagi.tv/playlist/amg01448-samsungindia-crimetak-samsungin/playlist.m3u8?ads.coppa=0",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "True Crime Stories & Investigations • 720p"
+    "subtitle": "True Crime Stories & Investigations \u2022 720p"
   },
   {
     "banner": "banner_houseofcrime",
@@ -1550,7 +1551,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d10iwrx8lzktlu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-0n7o81o2vovx7/HouseOfCrime_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Thrilling Crime & Mysteries • 1080p"
+    "subtitle": "Thrilling Crime & Mysteries \u2022 1080p"
   },
   {
     "banner": "banner_midsomermurders",
@@ -1561,7 +1562,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://2deeb9bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9NaWRzb21lck11cmRlcnNfSExT/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Classic British Detective Drama • 1080p"
+    "subtitle": "Classic British Detective Drama \u2022 1080p"
   },
   {
     "banner": "banner_crimescenetv",
@@ -1572,7 +1573,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1si3n1st4nkgb.cloudfront.net/10502/89001003/hls/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Investigation & Forensic TV • 1080p"
+    "subtitle": "Investigation & Forensic TV \u2022 1080p"
   },
   {
     "banner": "https://iili.io/of7HykF.png",
@@ -1583,7 +1584,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-781sm3dbw07tp.akamaized.net/rangmanchtv/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Marathi Drama, Culture & Entertainment • 1080p FULL HD"
+    "subtitle": "Marathi Drama, Culture & Entertainment \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_pitaara",
@@ -1594,7 +1595,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Punjabi Blockbuster Movies • 1080p"
+    "subtitle": "Punjabi Blockbuster Movies \u2022 1080p"
   },
   {
     "banner": "banner_ptcgold",
@@ -1638,7 +1639,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d7uwpei3iz1s1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-zlhyk105tozvj/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Punjabi & Hindi Comedy • 1080p"
+    "subtitle": "Non-Stop Punjabi & Hindi Comedy \u2022 1080p"
   },
   {
     "banner": "banner_gtcpunjabi",
@@ -1649,7 +1650,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Music, Entertainment & Gurbani • 1080p"
+    "subtitle": "Music, Entertainment & Gurbani \u2022 1080p"
   },
   {
     "banner": "banner_ptcmusic",
@@ -1693,7 +1694,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://mcncdndigital.com/balleballetv/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Non-Stop Punjabi Music & Bhangra • 1080p"
+    "subtitle": "Non-Stop Punjabi Music & Bhangra \u2022 1080p"
   },
   {
     "banner": "banner_wahpunjabi",
@@ -1704,7 +1705,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "24x7 Punjabi Hits & Cultural GEC • 720p"
+    "subtitle": "24x7 Punjabi Hits & Cultural GEC \u2022 720p"
   },
   {
     "banner": "banner_mhone",
@@ -1715,7 +1716,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "24x7 Punjabi Hits & Cultural GEC • 720p"
+    "subtitle": "24x7 Punjabi Hits & Cultural GEC \u2022 720p"
   },
   {
     "banner": "banner_punjabishorts",
@@ -1737,7 +1738,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8",
     "quality": "504p HQ",
     "subCategory": "",
-    "subtitle": "Doordarshan Punjabi Regional Heritage & Culture • 504p"
+    "subtitle": "Doordarshan Punjabi Regional Heritage & Culture \u2022 504p"
   },
   {
     "banner": "https://iili.io/ofV2TLQ.png",
@@ -1748,7 +1749,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Live Global Cricket & WWE • 1080p"
+    "subtitle": "Live Global Cricket & WWE \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofV2lpa.png",
@@ -1759,7 +1760,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Live Cricket, Football & Tennis • 1080p"
+    "subtitle": "Live Cricket, Football & Tennis \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofV2X4I.png",
@@ -1770,18 +1771,29 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Live Cricket & Sports in Hindi • 1080p"
+    "subtitle": "Live Cricket & Sports in Hindi \u2022 1080p"
   },
   {
-    "banner": "banner_skysports",
+    "banner": "https://iili.io/ofpSv0N.png",
     "category": "SPORTS",
-    "fallbackUrl": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
-    "id": "skysportscricket",
-    "name": "Sky Sports Cricket HD",
-    "primaryUrl": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ESeK2qWTROnqUU-EqdtYBw&e=2075227853&scheme=https",
+    "fallbackUrl": "http://stream.bottledesk.net/p/AQNASgYGemc/index.m3u8",
+    "id": "skysports",
+    "name": "Sky Sports HD",
+    "primaryUrl": "http://stream.bottledesk.net/p/AAxBRQEBc2c/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Live Cricket & The Ashes • 1080p"
+    "subtitle": "Live Premier League & Global Sports \u2022 1080p"
+  },
+  {
+    "banner": "https://iili.io/ofp8iKB.png",
+    "category": "SPORTS",
+    "fallbackUrl": "http://skylikem.com/live/2VZWJC3W/B7D7XK4T/1481175.m3u8",
+    "id": "skysportscricket",
+    "name": "Sky Sports Cricket HD",
+    "primaryUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=394545&extension=m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Live Cricket & The Ashes \u2022 1080p"
   },
   {
     "banner": "banner_willow",
@@ -1792,7 +1804,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "24x7 Live Cricket USA • 1080p"
+    "subtitle": "24x7 Live Cricket USA \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofmkgvs.png",
@@ -1803,7 +1815,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen5.aynaott.com/asdfadsf/index.m3u8",
     "quality": "720p HD 50fps",
     "subCategory": "INTERNATIONAL",
-    "subtitle": "Premier League & UEFA Champions League • 720p 50fps"
+    "subtitle": "Premier League & UEFA Champions League \u2022 720p 50fps"
   },
   {
     "banner": "banner_tensports",
@@ -1814,7 +1826,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ten-sports/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Authentic Ten Sports Live • 1080p"
+    "subtitle": "Authentic Ten Sports Live \u2022 1080p"
   },
   {
     "banner": "banner_willowsports",
@@ -1825,7 +1837,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Willow Sports Global Live • 1080p"
+    "subtitle": "Willow Sports Global Live \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofWhrtS.png",
@@ -1836,7 +1848,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://lkn1.chowdhury-shaheb.com/Tsports/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Bangladesh Premier Sports & Cricket • 1080p"
+    "subtitle": "Bangladesh Premier Sports & Cricket \u2022 1080p"
   },
   {
     "banner": "banner_asports",
@@ -1847,7 +1859,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/a-sports/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "ARY Cricket & The Pavilion • 1080p"
+    "subtitle": "ARY Cricket & The Pavilion \u2022 1080p"
   },
   {
     "banner": "banner_ptvsports",
@@ -1858,7 +1870,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ptv-sports/master.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Pakistan Cricket & Live Sports • 720p HD"
+    "subtitle": "Pakistan Cricket & Live Sports \u2022 720p HD"
   },
   {
     "banner": "https://iili.io/ofMPYts.png",
@@ -1869,7 +1881,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://38.96.178.205/STARSPORTS2/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "LIVE",
-    "subtitle": "Live Cricket & Sports Action • 1080p"
+    "subtitle": "Live Cricket & Sports Action \u2022 1080p"
   },
   {
     "banner": "https://iili.io/ofWhjnt.png",
@@ -1879,7 +1891,7 @@ window.CHANNELS_DATA = [
     "name": "Sony Sports 5 HD",
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
-    "subtitle": "Live Football, UFC, Cricket & WWE • 1080p"
+    "subtitle": "Live Football, UFC, Cricket & WWE \u2022 1080p"
   },
   {
     "banner": "banner_sports2",
@@ -1890,7 +1902,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://38.96.178.203/SPORTS2/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Live Cricket & Sports Action • 720p"
+    "subtitle": "Live Cricket & Sports Action \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofhxoYJ.png",
@@ -1901,7 +1913,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
     "quality": "720p HD",
     "subCategory": "INTERNATIONAL",
-    "subtitle": "America's Sports Leader • 720p HD"
+    "subtitle": "America's Sports Leader \u2022 720p HD"
   },
   {
     "banner": "banner_ddsports",
@@ -1912,7 +1924,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Free-to-Air India Cricket & Olympics • 1080p"
+    "subtitle": "Free-to-Air India Cricket & Olympics \u2022 1080p"
   },
   {
     "banner": "banner_msports",
@@ -1923,7 +1935,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cdn.rabta.stream/M-Sports/index.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Pakistani Live Cricket & Sports • 1080p"
+    "subtitle": "Pakistani Live Cricket & Sports \u2022 1080p"
   },
   {
     "banner": "banner_geosuper",
@@ -1934,7 +1946,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/geo-ent/master.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Pakistan Cricket, PSL & Sports • 720p"
+    "subtitle": "Pakistan Cricket, PSL & Sports \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofMPuSI.png",
@@ -1945,7 +1957,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
     "quality": "1080p FULL HD",
     "subCategory": "HINDI",
-    "subtitle": "Non-Stop Fun & Toons • 1080p FULL HD"
+    "subtitle": "Non-Stop Fun & Toons \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_wowkidz",
@@ -1956,7 +1968,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Vir The Robot Boy & Toons • 720p"
+    "subtitle": "Vir The Robot Boy & Toons \u2022 720p"
   },
   {
     "banner": "banner_hooraykids",
@@ -1967,7 +1979,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d3go3d9yw1x2sb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Kids Cartoons & Fun • 1080p"
+    "subtitle": "Kids Cartoons & Fun \u2022 1080p"
   },
   {
     "banner": "banner_hoorayrhymes",
@@ -1978,7 +1990,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d37mxw7rri7aso.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/playlist.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Rhymes & Nursery Melodies • 1080p"
+    "subtitle": "Rhymes & Nursery Melodies \u2022 1080p"
   },
   {
     "banner": "banner_powerkids",
@@ -1989,7 +2001,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://d1s1t403pzp2rz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-caowluvnwycy4/powerkids.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Action Animations & Adventures • 1080p"
+    "subtitle": "Action Animations & Adventures \u2022 1080p"
   },
   {
     "banner": "banner_epickids",
@@ -2000,7 +2012,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8?ads.ads_cdn=ak&ads.cdn=ak",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Toons, Adventures & Fun • 1080p"
+    "subtitle": "Toons, Adventures & Fun \u2022 1080p"
   },
   {
     "banner": "banner_junglebook",
@@ -2011,7 +2023,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Mowgli Adventures 24x7 • 1080p"
+    "subtitle": "Mowgli Adventures 24x7 \u2022 1080p"
   },
   {
     "banner": "banner_greengold",
@@ -2022,7 +2034,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Official Green Gold 24x7 • 1080p"
+    "subtitle": "Official Green Gold 24x7 \u2022 1080p"
   },
   {
     "banner": "banner_cartoonnetwork",
@@ -2033,7 +2045,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Iconic Animation • 1080p FULL HD"
+    "subtitle": "Iconic Animation \u2022 1080p FULL HD"
   },
   {
     "banner": "banner_cartoonnetwork_hindi",
@@ -2044,7 +2056,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Iconic Animation & Cartoons in Hindi • 720p"
+    "subtitle": "Iconic Animation & Cartoons in Hindi \u2022 720p"
   },
   {
     "banner": "banner_pogo",
@@ -2055,7 +2067,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
     "quality": "720p HD",
     "subCategory": "",
-    "subtitle": "Chhota Bheem & Titoo • Hindi 720p"
+    "subtitle": "Chhota Bheem & Titoo \u2022 Hindi 720p"
   },
   {
     "banner": "banner_discoverykids",
@@ -2066,7 +2078,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8",
     "quality": "576p HQ",
     "subCategory": "",
-    "subtitle": "Mystery Hunters & Little Singham • 576p"
+    "subtitle": "Mystery Hunters & Little Singham \u2022 576p"
   },
   {
     "banner": "banner_humtv",
@@ -2077,7 +2089,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Premier Pakistani Drama Network • 720p"
+    "subtitle": "Premier Pakistani Drama Network \u2022 720p"
   },
   {
     "banner": "banner_arydigital",
@@ -2088,7 +2100,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ary-digital/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Top Pakistani Mega Dramas • 720p"
+    "subtitle": "Top Pakistani Mega Dramas \u2022 720p"
   },
   {
     "banner": "banner_greentv",
@@ -2099,7 +2111,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/green-tv/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Fresh Dramas & Stories • 720p"
+    "subtitle": "Fresh Dramas & Stories \u2022 720p"
   },
   {
     "banner": "banner_expressent",
@@ -2110,7 +2122,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/express-ent/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Hit Dramas & Soaps • 720p"
+    "subtitle": "Hit Dramas & Soaps \u2022 720p"
   },
   {
     "banner": "banner_humsitaray",
@@ -2121,7 +2133,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/hum-sitaray/master.m3u8",
     "quality": "480p SD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Dramas & Lifestyle • 480p"
+    "subtitle": "Dramas & Lifestyle \u2022 480p"
   },
   {
     "banner": "banner_aantv",
@@ -2132,7 +2144,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/aan-tv/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Family Entertainment • 720p"
+    "subtitle": "Family Entertainment \u2022 720p"
   },
   {
     "banner": "banner_aurlife",
@@ -2143,7 +2155,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/aur-life/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Urdu Serials & Lifestyle • 720p"
+    "subtitle": "Urdu Serials & Lifestyle \u2022 720p"
   },
   {
     "banner": "banner_ptvhome",
@@ -2154,7 +2166,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ptv-home/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Classic Heritage National TV • 720p HD"
+    "subtitle": "Classic Heritage National TV \u2022 720p HD"
   },
   {
     "banner": "banner_ptvglobal",
@@ -2165,7 +2177,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ptv-global/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Worldwide Pakistani TV • 720p HD"
+    "subtitle": "Worldwide Pakistani TV \u2022 720p HD"
   },
   {
     "banner": "banner_inplus",
@@ -2176,7 +2188,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/in-plus/master.m3u8",
     "quality": "720p HD",
     "subCategory": "ENTERTAINMENT",
-    "subtitle": "Modern Urdu Entertainment • 720p"
+    "subtitle": "Modern Urdu Entertainment \u2022 720p"
   },
   {
     "banner": "banner_axn",
@@ -2187,7 +2199,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/axn/master.m3u8",
     "quality": "720p HD",
     "subCategory": "MOVIES",
-    "subtitle": "Hollywood Action Movies & Series • 720p"
+    "subtitle": "Hollywood Action Movies & Series \u2022 720p"
   },
   {
     "banner": "banner_tensports",
@@ -2198,7 +2210,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ten-sports/master.m3u8",
     "quality": "720p HD",
     "subCategory": "SPORTS",
-    "subtitle": "Live Cricket & WWE • 720p"
+    "subtitle": "Live Cricket & WWE \u2022 720p"
   },
   {
     "banner": "banner_asports",
@@ -2209,7 +2221,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/a-sports/master.m3u8",
     "quality": "720p HD",
     "subCategory": "SPORTS",
-    "subtitle": "ARY Cricket & Sports Live • 720p"
+    "subtitle": "ARY Cricket & Sports Live \u2022 720p"
   },
   {
     "banner": "banner_ptvsports",
@@ -2220,7 +2232,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ptv-sports/master.m3u8",
     "quality": "720p HD",
     "subCategory": "SPORTS",
-    "subtitle": "Pakistan National Sports & ICC • 720p HD"
+    "subtitle": "Pakistan National Sports & ICC \u2022 720p HD"
   },
   {
     "banner": "banner_geosuper",
@@ -2231,7 +2243,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/geo-ent/master.m3u8",
     "quality": "720p HD",
     "subCategory": "SPORTS",
-    "subtitle": "Pakistan Cricket, PSL & Live Sports • 720p"
+    "subtitle": "Pakistan Cricket, PSL & Live Sports \u2022 720p"
   },
   {
     "banner": "banner_discoverpak",
@@ -2242,7 +2254,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/discover-pk/master.m3u8",
     "quality": "720p HD",
     "subCategory": "INFOTAINMENT",
-    "subtitle": "Tourism, Himalayas & Nature • 720p"
+    "subtitle": "Tourism, Himalayas & Nature \u2022 720p"
   },
   {
     "banner": "banner_kidzone",
@@ -2253,7 +2265,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/kidzone/master.m3u8",
     "quality": "720p HD",
     "subCategory": "KIDS",
-    "subtitle": "Cartoons & Anime in Urdu • 720p"
+    "subtitle": "Cartoons & Anime in Urdu \u2022 720p"
   },
   {
     "banner": "banner_madanitv",
@@ -2264,7 +2276,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/madani-tv/master.m3u8",
     "quality": "720p HD",
     "subCategory": "DEVOTIONAL",
-    "subtitle": "Islamic Knowledge & Quran • 720p"
+    "subtitle": "Islamic Knowledge & Quran \u2022 720p"
   },
   {
     "banner": "banner_sauditv",
@@ -2275,7 +2287,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/saudi-tv/master.m3u8",
     "quality": "720p HD",
     "subCategory": "DEVOTIONAL",
-    "subtitle": "Makkah Live 24x7 • 720p"
+    "subtitle": "Makkah Live 24x7 \u2022 720p"
   },
   {
     "banner": "banner_geonews",
@@ -2286,7 +2298,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/geo-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "Leading Urdu Breaking News • 720p"
+    "subtitle": "Leading Urdu Breaking News \u2022 720p"
   },
   {
     "banner": "banner_arynews",
@@ -2297,7 +2309,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ary-news/master.m3u8",
     "quality": "480p SD",
     "subCategory": "NEWS",
-    "subtitle": "Headlines & Current Affairs • 480p"
+    "subtitle": "Headlines & Current Affairs \u2022 480p"
   },
   {
     "banner": "banner_dunyanews",
@@ -2308,7 +2320,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/dunya-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "National News Network • 720p"
+    "subtitle": "National News Network \u2022 720p"
   },
   {
     "banner": "banner_sammanews",
@@ -2319,7 +2331,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/samma-news/master.m3u8",
     "quality": "480p SD",
     "subCategory": "NEWS",
-    "subtitle": "National Breaking News • 480p"
+    "subtitle": "National Breaking News \u2022 480p"
   },
   {
     "banner": "banner_humnews",
@@ -2330,7 +2342,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/hum-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "Current Affairs & Talk Shows • 720p"
+    "subtitle": "Current Affairs & Talk Shows \u2022 720p"
   },
   {
     "banner": "banner_92news",
@@ -2341,7 +2353,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/92-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "First HD News Channel • 720p"
+    "subtitle": "First HD News Channel \u2022 720p"
   },
   {
     "banner": "banner_expressnews",
@@ -2352,7 +2364,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/express-news/master.m3u8",
     "quality": "480p SD",
     "subCategory": "NEWS",
-    "subtitle": "Har Khabar Par Nazar • 480p"
+    "subtitle": "Har Khabar Par Nazar \u2022 480p"
   },
   {
     "banner": "banner_24news",
@@ -2363,7 +2375,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/24-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "24x7 Breaking News • 720p"
+    "subtitle": "24x7 Breaking News \u2022 720p"
   },
   {
     "banner": "banner_aajnews",
@@ -2374,7 +2386,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/aaj-news/master.m3u8",
     "quality": "480p SD",
     "subCategory": "NEWS",
-    "subtitle": "Pakistan & World News • 480p"
+    "subtitle": "Pakistan & World News \u2022 480p"
   },
   {
     "banner": "banner_ptvnews",
@@ -2385,7 +2397,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/ptv-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "National News Network • 720p HD"
+    "subtitle": "National News Network \u2022 720p HD"
   },
   {
     "banner": "banner_sunonews",
@@ -2396,7 +2408,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/suno-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "Suno Pakistan • 720p"
+    "subtitle": "Suno Pakistan \u2022 720p"
   },
   {
     "banner": "banner_cnnnews",
@@ -2407,7 +2419,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/cnn-news/master.m3u8",
     "quality": "480p SD",
     "subCategory": "NEWS",
-    "subtitle": "Global Headlines & Analysis • 480p"
+    "subtitle": "Global Headlines & Analysis \u2022 480p"
   },
   {
     "banner": "banner_city42",
@@ -2418,7 +2430,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/city-42/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "Lahore City News • 720p"
+    "subtitle": "Lahore City News \u2022 720p"
   },
   {
     "banner": "banner_lahorenews",
@@ -2429,7 +2441,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/lahore-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "City Headlines & Updates • 720p"
+    "subtitle": "City Headlines & Updates \u2022 720p"
   },
   {
     "banner": "banner_publictv",
@@ -2440,7 +2452,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/public-tv/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "Awam Ki Awaz • 720p"
+    "subtitle": "Awam Ki Awaz \u2022 720p"
   },
   {
     "banner": "banner_neonews",
@@ -2451,7 +2463,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/neo-news/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "News & Analysis • 720p"
+    "subtitle": "News & Analysis \u2022 720p"
   },
   {
     "banner": "banner_channel5",
@@ -2462,7 +2474,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/channal-5/master.m3u8",
     "quality": "720p HD",
     "subCategory": "NEWS",
-    "subtitle": "National News & Talk • 720p"
+    "subtitle": "National News & Talk \u2022 720p"
   },
   {
     "banner": "banner_lahorerang",
@@ -2473,7 +2485,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/lahore-rang/master.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Lahori Culture & Beats • 720p"
+    "subtitle": "Lahori Culture & Beats \u2022 720p"
   },
   {
     "banner": "banner_avykhyber",
@@ -2484,7 +2496,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/avy-khyber/master.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Pashto Music & Culture • 720p"
+    "subtitle": "Pashto Music & Culture \u2022 720p"
   },
   {
     "banner": "banner_kay2",
@@ -2495,7 +2507,7 @@ window.CHANNELS_DATA = [
     "primaryUrl": "https://live.msnetworks.net/kay-2/master.m3u8",
     "quality": "720p HD",
     "subCategory": "REGIONAL",
-    "subtitle": "Northern Mountain TV • 720p"
+    "subtitle": "Northern Mountain TV \u2022 720p"
   },
   {
     "banner": "https://iili.io/ofYiniF.png",
