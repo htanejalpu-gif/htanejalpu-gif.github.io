@@ -748,6 +748,17 @@ window.CHANNELS_DATA = [
     "subtitle": "Hindi Dubbed Blockbusters"
   },
   {
+    "id": "hindimovieclassic24",
+    "name": "Hindi Movie Classic 24",
+    "category": "MOVIES",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Evergreen Golden Era Bollywood Cinema • 1080p FULL HD",
+    "banner": "https://iili.io/oftoxg2.png",
+    "primaryUrl": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+    "fallbackUrl": "https://vods2.aynaott.com/hindimovies/index.m3u8"
+  },
+  {
     "banner": "banner_alltimemovies",
     "category": "MOVIES",
     "fallbackUrl": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
@@ -890,6 +901,83 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "HOLLYWOOD",
     "subtitle": "Stay Amazed • 1080p FULL HD"
+  },
+  {
+    "id": "lionsgatemoviesphere",
+    "name": "Lionsgate MovieSphere",
+    "category": "MOVIES",
+    "quality": "1080p FULL HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Blockbuster Cinema & Action Thrillers • 1080p FULL HD",
+    "banner": "https://iili.io/ofto7Wb.png",
+    "primaryUrl": "https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8",
+    "fallbackUrl": "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8"
+  },
+  {
+    "id": "miramax",
+    "name": "Miramax Movie Channel",
+    "category": "MOVIES",
+    "quality": "1080p FULL HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Miramax Studio Films & Award-Winning Cinema • 1080p",
+    "banner": "https://iili.io/oftoO1R.png",
+    "primaryUrl": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1920x1080.m3u8",
+    "fallbackUrl": "https://linear-798.frequency.stream/mt/tcltv/798/hls/master/playlist_1280x720.m3u8"
+  },
+  {
+    "id": "paramountmovies",
+    "name": "Paramount Movie Channel",
+    "category": "MOVIES",
+    "quality": "720p HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Paramount Studio Blockbusters & Classics • 720p",
+    "banner": "https://iili.io/ofto6LG.png",
+    "primaryUrl": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+    "fallbackUrl": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8"
+  },
+  {
+    "id": "universalmovies",
+    "name": "Universal Movies",
+    "category": "MOVIES",
+    "quality": "720p HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Universal Studios Cinema & Action Thrillers • 720p",
+    "banner": "https://iili.io/oftxCTF.png",
+    "primaryUrl": "https://jmp2.uk/plu-654933e253fc970008390114.m3u8",
+    "fallbackUrl": "https://jmp2.uk/plu-6549341853fc9700083901ac.m3u8"
+  },
+  {
+    "id": "greatmovies",
+    "name": "Great! Movies",
+    "category": "MOVIES",
+    "quality": "1080p FULL HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Great! Modern Hollywood & Cult Favorites • 1080p",
+    "banner": "https://iili.io/oftzdtn.png",
+    "primaryUrl": "https://jmp2.uk/stvp-GBBC900007Q5",
+    "fallbackUrl": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8"
+  },
+  {
+    "id": "plutotvmovies",
+    "name": "Pluto TV Movies",
+    "category": "MOVIES",
+    "quality": "720p HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "Pluto TV Feature Films & Hollywood Cinema • 720p",
+    "banner": "https://iili.io/oftz4ff.png",
+    "primaryUrl": "https://jmp2.uk/stvp-GBAK3504504A",
+    "fallbackUrl": "https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8"
+  },
+  {
+    "id": "rakutenaction",
+    "name": "Rakuten Action & Sci-Fi",
+    "category": "MOVIES",
+    "quality": "1080p FULL HD",
+    "subCategory": "ENGLISH",
+    "subtitle": "High-Octane Action, Sci-Fi & Crime Thrillers • 1080p",
+    "banner": "https://iili.io/oftIqWg.png",
+    "primaryUrl": "https://jmp2.uk/stvp-GB2600015OS",
+    "fallbackUrl": "https://jmp2.uk/stvp-GB2600013BO"
   },
   {
     "banner": "https://iili.io/ofEZ88B.png",
@@ -1276,6 +1364,17 @@ window.CHANNELS_DATA = [
     "quality": "1080p Full HD",
     "subCategory": "HINDI",
     "subtitle": "Hai Khaas Har Andaaz • 1080p FULL HD"
+  },
+  {
+    "id": "zeeone",
+    "name": "Zee One HD",
+    "category": "ENTERTAINMENT",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Zee Entertainment International Hits • 1080p FULL HD",
+    "banner": "https://iili.io/ofto2Rt.png",
+    "primaryUrl": "https://jmp2.uk/stvp-DEAJ2900003CN",
+    "fallbackUrl": "https://jmp2.uk/stvp-ATBA3300006WH"
   },
   {
     "banner": "banner_starplus",
