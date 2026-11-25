@@ -1,58 +1,14 @@
 window.CHANNELS_DATA = [
   {
-    "banner": "banner_discovery",
+    "banner": "banner_epictv",
     "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
-    "id": "discovery",
-    "name": "Discovery HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Science, Nature & Wildlife • 720p HD"
-  },
-  {
-    "banner": "https://iili.io/ofhxuhN.png",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
-    "id": "natgeo",
-    "name": "National Geographic HD",
-    "primaryUrl": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+    "fallbackUrl": "https://d1fodel5fjpe8b.cloudfront.net/in10/epictv-o_720p/chunks.m3u8",
+    "id": "epictv",
+    "name": "Epic TV HD",
+    "primaryUrl": "https://d1fodel5fjpe8b.cloudfront.net/master.m3u8",
     "quality": "1080p FULL HD",
     "subCategory": "",
-    "subtitle": "Inspiring People to Care • 1080p FULL HD"
-  },
-  {
-    "banner": "https://iili.io/ofhx5Bt.png",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
-    "id": "discoveryturbo",
-    "name": "Discovery Turbo HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Motors, Speed & Adrenaline • 720p HD"
-  },
-  {
-    "banner": "banner_animalplanet",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
-    "id": "animalplanet",
-    "name": "Animal Planet HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Wildlife & Nature • 720p"
-  },
-  {
-    "banner": "https://iili.io/ofV2C7e.png",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/720p-en-cc/index.m3u8",
-    "id": "bbcearth",
-    "name": "Sony BBC Earth HD",
-    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Feel Alive • 1080p FULL HD"
+    "subtitle": "Indian History, Mysteries & Culture • 1080p"
   },
   {
     "banner": "banner_history18",
@@ -66,28 +22,6 @@ window.CHANNELS_DATA = [
     "subtitle": "History & Action"
   },
   {
-    "banner": "banner_discoveryscience",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
-    "id": "discoveryscience",
-    "name": "Discovery Science",
-    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Tech & Scientific Exploration • 720p"
-  },
-  {
-    "banner": "banner_tlc",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
-    "id": "tlc",
-    "name": "TLC HD",
-    "primaryUrl": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
-    "quality": "720p HD",
-    "subCategory": "",
-    "subtitle": "Lifestyle & Food • 720p"
-  },
-  {
     "banner": "banner_travelxp",
     "category": "INFOTAINMENT",
     "fallbackUrl": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
@@ -97,50 +31,6 @@ window.CHANNELS_DATA = [
     "quality": "720p HD",
     "subCategory": "",
     "subtitle": "Travel, Food & Culture • 720p"
-  },
-  {
-    "banner": "banner_ndtvgoodtimes",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
-    "id": "ndtvgoodtimes",
-    "name": "NDTV Good Times",
-    "primaryUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
-    "quality": "480p SD",
-    "subCategory": "",
-    "subtitle": "Food, Lifestyle & Luxury • 480p"
-  },
-  {
-    "banner": "banner_insighttv",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://insighttv-samsung-us.amagi.tv/720p/index.m3u8",
-    "id": "insighttv",
-    "name": "Insight TV HD",
-    "primaryUrl": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Action Sports & Adventure • 1080p"
-  },
-  {
-    "banner": "banner_epictv",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://d1fodel5fjpe8b.cloudfront.net/in10/epictv-o_720p/chunks.m3u8",
-    "id": "epictv",
-    "name": "Epic TV HD",
-    "primaryUrl": "https://d1fodel5fjpe8b.cloudfront.net/master.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Indian History, Mysteries & Culture • 1080p"
-  },
-  {
-    "banner": "banner_docubay",
-    "category": "INFOTAINMENT",
-    "fallbackUrl": "https://jmp2.uk/stvp-IN8000186A",
-    "id": "docubay",
-    "name": "DocuBay HD",
-    "primaryUrl": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
-    "quality": "1080p FULL HD",
-    "subCategory": "",
-    "subtitle": "Global Documentaries • Nature & Crime • 1080p"
   },
   {
     "banner": "banner_foodxp",
@@ -174,6 +64,116 @@ window.CHANNELS_DATA = [
     "quality": "1080p FULL HD",
     "subCategory": "",
     "subtitle": "Baking, Cooking Shows & Gourmet Treats • 1080p"
+  },
+  {
+    "banner": "banner_discovery",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "id": "discovery",
+    "name": "Discovery HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Science, Nature & Wildlife • 720p HD"
+  },
+  {
+    "banner": "https://iili.io/ofhxuhN.png",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+    "id": "natgeo",
+    "name": "National Geographic HD",
+    "primaryUrl": "https://tvsen6.aynaott.com/natgeo/index.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Inspiring People to Care • 1080p FULL HD"
+  },
+  {
+    "banner": "https://iili.io/ofhx5Bt.png",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "id": "discoveryturbo",
+    "name": "Discovery Turbo HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Motors, Speed & Adrenaline • 720p HD"
+  },
+  {
+    "banner": "banner_discoveryscience",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "id": "discoveryscience",
+    "name": "Discovery Science",
+    "primaryUrl": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Tech & Scientific Exploration • 720p"
+  },
+  {
+    "banner": "banner_animalplanet",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8",
+    "id": "animalplanet",
+    "name": "Animal Planet HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Wildlife & Nature • 720p"
+  },
+  {
+    "banner": "https://iili.io/ofV2C7e.png",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/720p-en-cc/index.m3u8",
+    "id": "bbcearth",
+    "name": "Sony BBC Earth HD",
+    "primaryUrl": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1795633310~acl=/*~id=66603774121010046368446292577702~hmac=83d64c38985682b5db431bb077080e70d8a8ad1065d9d4ec695b2581bbacda1d",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Feel Alive • 1080p FULL HD"
+  },
+  {
+    "banner": "banner_insighttv",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://insighttv-samsung-us.amagi.tv/720p/index.m3u8",
+    "id": "insighttv",
+    "name": "Insight TV HD",
+    "primaryUrl": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Action Sports & Adventure • 1080p"
+  },
+  {
+    "banner": "banner_tlc",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8",
+    "id": "tlc",
+    "name": "TLC HD",
+    "primaryUrl": "https://tvsen3.aynaott.com/EJagkNL2/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Lifestyle & Food • 720p"
+  },
+  {
+    "banner": "banner_ndtvgoodtimes",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+    "id": "ndtvgoodtimes",
+    "name": "NDTV Good Times",
+    "primaryUrl": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8",
+    "quality": "480p SD",
+    "subCategory": "",
+    "subtitle": "Food, Lifestyle & Luxury • 480p"
+  },
+  {
+    "banner": "banner_docubay",
+    "category": "INFOTAINMENT",
+    "fallbackUrl": "https://jmp2.uk/stvp-IN8000186A",
+    "id": "docubay",
+    "name": "DocuBay HD",
+    "primaryUrl": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8",
+    "quality": "1080p FULL HD",
+    "subCategory": "",
+    "subtitle": "Global Documentaries • Nature & Crime • 1080p"
   },
   {
     "banner": "https://iili.io/ofYo7Ax.png",
