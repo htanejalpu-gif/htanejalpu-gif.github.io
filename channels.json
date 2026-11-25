@@ -473,17 +473,6 @@
     "subtitle": "On The Ground • Prime Time English News & Debates • 1080p"
   },
   {
-    "banner": "banner_zeebiz",
-    "category": "NEWS",
-    "fallbackUrl": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
-    "id": "zeebiz",
-    "name": "Zee Business HD",
-    "primaryUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
-    "quality": "720p HD",
-    "subCategory": "BUSINESS",
-    "subtitle": "Markets & Finance • 720p"
-  },
-  {
     "banner": "banner_cnbc",
     "category": "NEWS",
     "fallbackUrl": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98835_hin=98800-video=658800.m3u8",
@@ -504,6 +493,17 @@
     "quality": "720p HD",
     "subCategory": "BUSINESS",
     "subtitle": "Business & Stocks • 720p"
+  },
+  {
+    "banner": "banner_zeebiz",
+    "category": "NEWS",
+    "fallbackUrl": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
+    "id": "zeebiz",
+    "name": "Zee Business HD",
+    "primaryUrl": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
+    "quality": "720p HD",
+    "subCategory": "BUSINESS",
+    "subtitle": "Markets & Finance • 720p"
   },
   {
     "banner": "banner_cnbctv18",
@@ -528,6 +528,17 @@
     "subtitle": "Business & Markets • 1080p"
   },
   {
+    "banner": "banner_etnow",
+    "category": "NEWS",
+    "fallbackUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
+    "id": "etnow",
+    "name": "ET Now",
+    "primaryUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
+    "quality": "720p HD",
+    "subCategory": "BUSINESS",
+    "subtitle": "India's Leading Business & Financial News • 720p"
+  },
+  {
     "banner": "banner_businesstoday",
     "category": "NEWS",
     "fallbackUrl": "https://feeds.intoday.in/bttv/itgd.m3u8",
@@ -548,17 +559,6 @@
     "quality": "1080p FULL HD",
     "subCategory": "BUSINESS",
     "subtitle": "Global Business & Markets • 1080p"
-  },
-  {
-    "banner": "banner_etnow",
-    "category": "NEWS",
-    "fallbackUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
-    "id": "etnow",
-    "name": "ET Now",
-    "primaryUrl": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
-    "quality": "720p HD",
-    "subCategory": "BUSINESS",
-    "subtitle": "India's Leading Business & Financial News • 720p"
   },
   {
     "banner": "banner_zeepunjabnews",
