@@ -1,4 +1,4 @@
-const CACHE_NAME = 'playtv-v4.4';
+const CACHE_NAME = 'playtv-v4.5';
 const SHELL_ASSETS = [
   './',
   './index.html',
