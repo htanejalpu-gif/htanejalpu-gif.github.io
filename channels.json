@@ -1795,6 +1795,17 @@
     "subtitle": "Live Cricket & The Ashes \u2022 1080p"
   },
   {
+    "banner": "https://iili.io/ofyK6cQ.png",
+    "category": "SPORTS",
+    "fallbackUrl": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=809389&extension=m3u8",
+    "id": "foxcricket",
+    "name": "Fox Cricket HD",
+    "primaryUrl": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8",
+    "quality": "720p HD",
+    "subCategory": "",
+    "subtitle": "Australia & Global Cricket \u2022 720p HD"
+  },
+  {
     "banner": "banner_willow",
     "category": "SPORTS",
     "fallbackUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist.m3u8",
