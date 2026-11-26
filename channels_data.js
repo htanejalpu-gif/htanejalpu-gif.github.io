@@ -1,4 +1,5 @@
-window.CHANNELS_DATA = [
+window.CHANNELS_DATA = 
+[
   {
     "banner": "banner_epictv",
     "category": "INFOTAINMENT",
@@ -1000,6 +1001,17 @@ window.CHANNELS_DATA = [
     "banner": "https://iili.io/oftIqWg.png",
     "primaryUrl": "https://jmp2.uk/stvp-GB2600015OS",
     "fallbackUrl": "https://jmp2.uk/stvp-GB2600013BO"
+  },
+  {
+    "id": "movie_last_man_in_tower",
+    "name": "Last Man in Tower",
+    "category": "LATEST MOVIES",
+    "subCategory": "",
+    "subtitle": "Bollywood Hindi (DD 5.1) • 1080p Full HD • 2.1 GB",
+    "primaryUrl": "https://pixeldrain.dev/api/file/mgxVdaVP?download",
+    "fallbackUrl": "https://pixeldrain.dev/api/file/zShFpvAM?download",
+    "quality": "1080p FULL HD",
+    "banner": "banner_last_man_in_tower"
   },
   {
     "banner": "https://iili.io/ofEZ88B.png",
