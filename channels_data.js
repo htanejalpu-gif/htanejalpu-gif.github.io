@@ -1003,6 +1003,17 @@ window.CHANNELS_DATA =
     "fallbackUrl": "https://jmp2.uk/stvp-GB2600013BO"
   },
   {
+    "id": "movie_little_thomas",
+    "name": "Little Thomas",
+    "category": "LATEST MOVIES",
+    "subCategory": "",
+    "subtitle": "Bollywood Hindi (2026) • 1080p HQCam • 2.3 GB",
+    "primaryUrl": "https://pixeldrain.dev/api/file/1Je5swg4?download",
+    "fallbackUrl": "https://pixeldrain.dev/api/file/LVExJkdu?download",
+    "quality": "1080p HQCam",
+    "banner": "banner_little_thomas"
+  },
+  {
     "id": "movie_last_man_in_tower",
     "name": "Last Man in Tower",
     "category": "LATEST MOVIES",
